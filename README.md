@@ -8,7 +8,7 @@ Este projeto apresenta uma solução completa de Engenharia de Dados utilizando 
 - **Fonte de Dados:** API REST Dados Abertos Câmara (https://dadosabertos.camara.leg.br/swagger/api.html)
 - **Arquitetura:** Medallion (Bronze, Silver, Gold)
 
-¹ Saiba mais: https://www.databricks.com/blog/introducing-databricks-free-edition
+<font size=7>¹ Saiba mais: https://www.databricks.com/blog/introducing-databricks-free-edition</font>
 </br></br>
 ---
 
