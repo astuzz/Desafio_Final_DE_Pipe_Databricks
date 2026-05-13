@@ -3,12 +3,10 @@
 Este projeto apresenta uma solução completa de Engenharia de Dados utilizando a **Arquitetura Medallion** no **Databricks**. O objetivo principal é extrair, processar e analisar dados da API de Dados Abertos da Câmara para gerar insights estratégicos sobre a atividade parlamentar brasileira.
 
 ### <b>Tecnologias Utilizadas</b>
-- **Plataforma:** Databricks Free Edition¹
+- **Plataforma:** Databricks Free Edition (Saiba mais: https://www.databricks.com/blog/introducing-databricks-free-edition)
 - **Linguagens:** PySpark (Python) e Spark SQL
 - **Fonte de Dados:** API REST Dados Abertos Câmara (https://dadosabertos.camara.leg.br/swagger/api.html)
 - **Arquitetura:** Medallion (Bronze, Silver, Gold)
-
-<font size=7>¹ Saiba mais: https://www.databricks.com/blog/introducing-databricks-free-edition</font>
 </br></br>
 ---
 
