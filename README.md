@@ -26,9 +26,11 @@ Mapeamento completo das frentes ativas, seus membros e a interseção com partid
 | Script | Local | Camada | Resumo | Detalhes
 | :---   | :---  | :---   | :---   | :---      
 | `1.1_frentes_ingest` | 1_bronze/src/1_atlas_frentes | Bronze | Ingestão bruta de frentes | Gera a tabela bronze_frentes
+| `1.1_deputados_ingest` | 1_bronze/src/1_atlas_frentes | Bronze | Ingestão bruta de dados sobre deputados | Gera a tabela bronze_deputados
 | `1.1_membros_frentes_ingest` | 1_bronze/src/1_atlas_frentes | Bronze | Ingestão bruta de membros vinculados | Gera a tabela bronze_membros_frentes 
 | `1.5_frentes_historico_ingest` | 1_bronze/src/1_atlas_frentes | Bronze | Captura de dados da legislatura anterior (56)  | Ingestao de frentes legislatura 56 (fonte usada na 3_gold/src/1_atlas_frentes/1.5_evolucao_tematica_frentes) 
 | `1.1_frentes_transform` |  2_silver/src/1_atlas_frentes | Silver | Padronização e limpeza de dados de frentes | Converter os tipos e estrutura referente os dados da tabela Bronze_Frentes. A tabela silver_frentes é utilizada no /3_gold/1_atlas_frentes/1.1_atlas_frentes_consolidado
+| `1.1_deputados_transform` | 2_silver/src/1_atlas_frentes | Silver | Transformacao da tabela bronze_deputados | Gera a tabela silver_deputados 
 | `1.1_membros_frentes_transform` | 2_silver/src/1_atlas_frentes | Silver | Refinamento da lista de membros | Gera a tabela silver_membros_frentes 
 | `1.5_frentes_transform` | 2_silver/src/1_atlas_frentes | Silver | Padronização e limpeza de dados de frentes | Converter os tipos e estrutura referente os dados da tabela Bronze_Frentes Fonte para o script 3_gold/1_atlas_frentes/1.5_evolucao_tematica_frentes
 | `1.1_atlas_frentes_consolidado` | 3_gold/src/1_atlas_frentes | Gold | Mapeamento completo de deputados por frente | Gerar tabelas de Frentes e seus membros usando como fonte tabelas dos scripts /2_silver/src/1_atlas_frentes/2_membros_frentes_transform e 1.1_frentes_transform 
