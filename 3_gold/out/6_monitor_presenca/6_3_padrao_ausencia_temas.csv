@@ -1,0 +1,1456 @@
+nome_deputado,partido,tema,total_votacoes_tema,total_faltas_no_tema,percentual_falta_tema
+Zé Vitor,PL,Meio Ambiente,10,8,80
+Zé Adriano,PP,Economia,10,8,80
+Lucio Mosquini,PL,Meio Ambiente,10,7,70
+Sergio Souza,MDB,Educação,10,7,70
+Rodrigo Rollemberg,PSB,Economia,10,7,70
+Paulo Azi,UNIÃO,Educação,10,7,70
+Renildo Calheiros,PCdoB,Meio Ambiente,10,7,70
+Arthur Oliveira Maia,UNIÃO,Meio Ambiente,10,7,70
+Diego Garcia,REPUBLICANOS,Educação,10,7,70
+Rodrigo da Zaeli,PL,Educação,10,7,70
+Natália Bonavides,PT,Economia,10,7,70
+Lucas Ramos,PSB,Educação,10,7,70
+Coronel Fernanda,PL,Educação,10,7,70
+Ricardo Maia,MDB,Meio Ambiente,10,7,70
+José Nelto,UNIÃO,Meio Ambiente,10,7,70
+Airton Faleiro,PT,Meio Ambiente,10,7,70
+Luiz Fernando Faria,UNIÃO,Meio Ambiente,10,7,70
+Patrus Ananias,PT,Economia,10,7,70
+Marx Beltrão,PP,Economia,10,7,70
+Dr. Frederico,PRD,Meio Ambiente,10,6,60
+Lincoln Portela,PL,Economia,10,6,60
+Hugo Motta,REPUBLICANOS,Economia,10,6,60
+Célia Xakriabá,PSOL,Educação,10,6,60
+José Medeiros,PL,Meio Ambiente,10,6,60
+Jorge Braz,REPUBLICANOS,Economia,10,6,60
+Pedro Westphalen,PP,Educação,10,6,60
+Rubens Pereira Júnior,PT,Economia,10,6,60
+Roberto Duarte,REPUBLICANOS,Economia,10,6,60
+Dimas Gadelha,PT,Educação,10,6,60
+Erika Hilton,PSOL,Meio Ambiente,10,6,60
+Pedro Uczai,PT,Educação,10,6,60
+Pastor Diniz,UNIÃO,Economia,10,6,60
+Celso Russomanno,REPUBLICANOS,Educação,10,6,60
+Missionário José Olimpio,PL,Economia,10,6,60
+Ribamar Silva,PSD,Economia,10,6,60
+Vicentinho Júnior,PSDB,Meio Ambiente,10,6,60
+Jandira Feghali,PCdoB,Educação,10,6,60
+Antônio Doido,MDB,Educação,10,6,60
+Dr. Victor Linhalis,PODE,Economia,10,6,60
+Paulo Azi,UNIÃO,Meio Ambiente,10,6,60
+Jack Rocha,PT,Meio Ambiente,10,6,60
+Delegado da Cunha,PP,Economia,10,6,60
+Glaustin da Fokus,PODE,Economia,10,6,60
+Mario Frias,PL,Meio Ambiente,10,6,60
+Pedro Westphalen,PP,Economia,10,6,60
+Jonas Donizette,PSB,Economia,10,6,60
+Marcon,PT,Economia,10,6,60
+Capitão Alden,PL,Meio Ambiente,10,6,60
+Ruy Carneiro,PODE,Economia,10,6,60
+Paulo Guedes,PT,Educação,10,6,60
+Elcione Barbalho,MDB,Economia,10,6,60
+Julia Zanatta,PL,Meio Ambiente,10,6,60
+Fred Linhares,REPUBLICANOS,Economia,10,6,60
+Coronel Chrisóstomo,PL,Economia,10,6,60
+Amaro Neto,PP,Meio Ambiente,10,6,60
+Gustavo Gayer,PL,Meio Ambiente,10,6,60
+Zucco,PL,Economia,10,6,60
+Sidney Leite,PSD,Economia,10,6,60
+Delegada Adriana Accorsi,PT,Meio Ambiente,10,6,60
+Magda Mofatto,PL,Economia,10,6,60
+Glaustin da Fokus,PODE,Educação,10,6,60
+Jonas Donizette,PSB,Meio Ambiente,10,6,60
+Luiz Carlos Motta,PL,Meio Ambiente,10,6,60
+Daniel Barbosa,PP,Economia,10,6,60
+Waldemar Oliveira,AVANTE,Meio Ambiente,10,6,60
+Delegado Bruno Lima,PODE,Educação,10,6,60
+Dal Barreto,UNIÃO,Educação,10,6,60
+André Figueiredo,PDT,Educação,10,6,60
+Josenildo,PDT,Educação,10,6,60
+Delegada Ione,AVANTE,Educação,10,6,60
+Dimas Fabiano,PP,Meio Ambiente,10,6,60
+Paulo Lemos,PT,Meio Ambiente,10,6,60
+Luciano Amaral,PSD,Economia,10,6,60
+Ricardo Barros,PP,Educação,10,6,60
+Alencar Santana,PT,Educação,10,6,60
+Chris Tonietto,PL,Educação,10,6,60
+Ana Paula Leão,PP,Meio Ambiente,10,6,60
+Alceu Moreira,MDB,Economia,10,6,60
+Zezinho Barbary,PP,Meio Ambiente,10,6,60
+Arlindo Chinaglia,PT,Meio Ambiente,10,6,60
+Jorge Solla,PT,Economia,10,6,60
+Professora Luciene Cavalcante,PSOL,Economia,10,6,60
+Igor Timo,PSD,Economia,10,5,50
+Leo Prates,PDT,Meio Ambiente,10,5,50
+Mendonça Filho,PL,Economia,10,5,50
+Heitor Schuch,PSD,Economia,10,5,50
+Delegado Matheus Laiola,UNIÃO,Economia,10,5,50
+Miguel Lombardi,PL,Educação,10,5,50
+João Daniel,PT,Educação,10,5,50
+Maria do Rosário,PT,Economia,10,5,50
+Idilvan Alencar,PSB,Economia,10,5,50
+André Fufuca,PP,Economia,10,5,50
+Diego Garcia,REPUBLICANOS,Meio Ambiente,10,5,50
+Jack Rocha,PT,Educação,10,5,50
+Rosana Valle,PL,Meio Ambiente,10,5,50
+Camila Jara,PT,Educação,10,5,50
+Rafael Brito,MDB,Meio Ambiente,10,5,50
+Clarissa Tércio,PP,Economia,10,5,50
+Tadeu Veneri,PT,Meio Ambiente,10,5,50
+Capitão Alden,PL,Educação,10,5,50
+André Figueiredo,PDT,Meio Ambiente,10,5,50
+Fernando Mineiro,PT,Meio Ambiente,10,5,50
+Toninho Wandscheer,PP,Economia,10,5,50
+Rodolfo Nogueira,PL,Meio Ambiente,10,5,50
+Raimundo Santos,PSD,Educação,10,5,50
+Otoni de Paula,PSD,Meio Ambiente,10,5,50
+Félix Mendonça Júnior,PDT,Educação,10,5,50
+Sâmia Bomfim,PSOL,Economia,10,5,50
+Mário Negromonte Jr.,PSB,Economia,10,5,50
+Átila Lins,PSD,Economia,10,5,50
+Tião Medeiros,PP,Educação,10,5,50
+Junior Lourenço,MDB,Meio Ambiente,10,5,50
+Rosangela Moro,PL,Meio Ambiente,10,5,50
+Marcio Alvino,PL,Educação,10,5,50
+Tadeu Veneri,PT,Economia,10,5,50
+Coronel Fernanda,PL,Economia,10,5,50
+Rogério Correia,PT,Economia,10,5,50
+Hercílio Coelho Diniz,MDB,Economia,10,5,50
+Sargento Portugal,PODE,Economia,10,5,50
+Milton Vieira,REPUBLICANOS,Economia,10,5,50
+Marussa Boldrin,REPUBLICANOS,Educação,10,5,50
+Prof. Reginaldo Veras,PV,Economia,10,5,50
+Eriberto Medeiros,PSB,Educação,10,5,50
+Hugo Leal,PSD,Economia,10,5,50
+João Daniel,PT,Meio Ambiente,10,5,50
+Dilceu Sperafico,PP,Meio Ambiente,10,5,50
+Filipe Martins,PL,Meio Ambiente,10,5,50
+AJ Albuquerque,PP,Economia,10,5,50
+Fernando Coelho Filho,UNIÃO,Educação,10,5,50
+Jandira Feghali,PCdoB,Meio Ambiente,10,5,50
+Célio Silveira,MDB,Economia,10,5,50
+Fabio Garcia,UNIÃO,Economia,10,5,50
+Clarissa Tércio,PP,Educação,10,5,50
+Raimundo Santos,PSD,Economia,10,5,50
+Padovani,PP,Economia,10,5,50
+Marcos Pereira,REPUBLICANOS,Economia,10,5,50
+General Pazuello,PL,Educação,10,5,50
+Mendonça Filho,PL,Meio Ambiente,10,5,50
+Lula da Fonte,PP,Meio Ambiente,10,5,50
+Moses Rodrigues,UNIÃO,Economia,10,5,50
+Bandeira de Mello,PV,Educação,10,5,50
+Arnaldo Jardim,CIDADANIA,Economia,10,5,50
+Dr. Fernando Máximo,PL,Economia,10,5,50
+Joseildo Ramos,PT,Educação,10,5,50
+Ruy Carneiro,PODE,Meio Ambiente,10,5,50
+Wellington Roberto,PSD,Economia,10,5,50
+Paulo Guedes,PT,Economia,10,5,50
+Marcos Pereira,REPUBLICANOS,Meio Ambiente,10,5,50
+Carlos Sampaio,PSD,Meio Ambiente,10,5,50
+Emidinho Madeira,PL,Meio Ambiente,10,5,50
+André Fufuca,PP,Meio Ambiente,10,5,50
+Franciane Bayer,REPUBLICANOS,Educação,10,5,50
+Alice Portugal,PCdoB,Meio Ambiente,10,5,50
+Márcio Marinho,REPUBLICANOS,Meio Ambiente,10,5,50
+José Priante,MDB,Educação,10,5,50
+Delegado Éder Mauro,PL,Economia,10,5,50
+Thiago Flores,UNIÃO,Educação,10,5,50
+Luciano Bivar,MDB,Educação,10,5,50
+Bruno Farias,REPUBLICANOS,Economia,10,5,50
+Delegada Adriana Accorsi,PT,Economia,10,5,50
+Orlando Silva,PCdoB,Economia,10,5,50
+Carlos Gomes,REPUBLICANOS,Economia,10,5,50
+Maria Arraes,PSB,Meio Ambiente,10,5,50
+Doutor Luizinho,PP,Educação,10,5,50
+Delegado Éder Mauro,PL,Meio Ambiente,10,5,50
+Da Vitoria,PP,Meio Ambiente,10,5,50
+Eriberto Medeiros,PSB,Meio Ambiente,10,5,50
+Carlos Sampaio,PSD,Educação,10,5,50
+Gervásio Maia,PCdoB,Educação,10,5,50
+Bruno Ganem,PODE,Meio Ambiente,10,5,50
+Eduardo da Fonte,PP,Economia,10,5,50
+Alice Portugal,PCdoB,Economia,10,5,50
+Aécio Neves,PSDB,Meio Ambiente,10,5,50
+Saullo Vianna,MDB,Meio Ambiente,10,5,50
+Pedro Campos,PSB,Meio Ambiente,10,5,50
+Fausto Jr.,UNIÃO,Meio Ambiente,10,5,50
+Bruno Farias,REPUBLICANOS,Educação,10,5,50
+Delegado Marcelo Freitas,UNIÃO,Meio Ambiente,10,5,50
+Gilvan da Federal,PL,Economia,10,5,50
+Giacobo,PSD,Meio Ambiente,10,5,50
+Alex Manente,CIDADANIA,Economia,10,5,50
+Pedro Lupion,REPUBLICANOS,Educação,10,5,50
+Antônio Doido,MDB,Economia,10,5,50
+Junior Lourenço,MDB,Educação,10,5,50
+Julio Arcoverde,PP,Educação,10,5,50
+Luiz Fernando Faria,UNIÃO,Educação,10,5,50
+Pedro Paulo,PSD,Meio Ambiente,10,5,50
+Augusto Coutinho,REPUBLICANOS,Educação,10,5,50
+Antonio Andrade,REPUBLICANOS,Economia,10,5,50
+Zucco,PL,Meio Ambiente,10,5,50
+Gabriel Mota,UNIÃO,Economia,10,5,50
+Fernando Rodolfo,PRD,Meio Ambiente,10,5,50
+Newton Cardoso Jr,MDB,Economia,10,5,50
+Delegado Marcelo Freitas,UNIÃO,Educação,10,5,50
+Cezinha de Madureira,PL,Educação,10,5,50
+Dra. Alessandra Haber,PODE,Meio Ambiente,10,5,50
+Pastor Henrique Vieira,PSOL,Economia,10,5,50
+Nicoletti,PL,Educação,10,5,50
+Fausto Pinato,PP,Economia,10,5,50
+Roberto Duarte,REPUBLICANOS,Educação,10,5,50
+Jeferson Rodrigues,PSDB,Meio Ambiente,10,5,50
+Vitor Lippi,PSD,Educação,10,5,50
+Daniel Freitas,PL,Meio Ambiente,10,5,50
+Felipe Francischini,PODE,Educação,10,5,50
+Keniston Braga,MDB,Economia,10,5,50
+Maria do Rosário,PT,Meio Ambiente,10,5,50
+Paulo Abi-Ackel,PSDB,Meio Ambiente,10,5,50
+Luiz Gastão,PSD,Economia,10,5,50
+Pastor Eurico,PSDB,Economia,10,5,50
+Renata Abreu,PODE,Meio Ambiente,10,5,50
+Daniela do Waguinho,REPUBLICANOS,Economia,10,5,50
+Pezenti,MDB,Meio Ambiente,10,5,50
+Marussa Boldrin,REPUBLICANOS,Economia,10,5,50
+Fernanda Pessoa,PSD,Economia,10,5,50
+Wellington Roberto,PSD,Educação,10,5,50
+Antônia Lúcia,MDB,Educação,10,5,50
+Professor Alcides,PSDB,Meio Ambiente,10,5,50
+Cabo Gilberto Silva,PL,Educação,10,5,50
+Bacelar,PV,Economia,10,5,50
+Aguinaldo Ribeiro,PP,Meio Ambiente,10,5,50
+Dr. Daniel Soranz,PSD,Economia,10,5,50
+Carlos Sampaio,PSD,Economia,10,5,50
+Sergio Souza,MDB,Economia,10,5,50
+Greyce Elias,AVANTE,Economia,10,5,50
+Gleisi Hoffmann,PT,Meio Ambiente,10,5,50
+Chico Alencar,PSOL,Meio Ambiente,10,5,50
+Aureo Ribeiro,SOLIDARIEDADE,Meio Ambiente,10,5,50
+Carlos Chiodini,MDB,Economia,10,5,50
+Pezenti,MDB,Educação,10,5,50
+Sargento Gonçalves,PL,Economia,10,5,50
+General Girão,PL,Meio Ambiente,10,5,50
+Marussa Boldrin,REPUBLICANOS,Meio Ambiente,10,5,50
+Giovani Cherini,PL,Educação,10,5,50
+Tabata Amaral,PSB,Economia,10,5,50
+Marcos Aurélio Sampaio,MDB,Economia,10,5,50
+Vanderlan Alves,SOLIDARIEDADE,Meio Ambiente,10,5,50
+Julio Cesar Ribeiro,REPUBLICANOS,Economia,10,5,50
+Duarte Jr.,AVANTE,Economia,10,5,50
+Fabio Garcia,UNIÃO,Meio Ambiente,10,5,50
+Jadyel Alencar,REPUBLICANOS,Meio Ambiente,10,5,50
+Joaquim Passarinho,PL,Meio Ambiente,10,5,50
+Marcelo Queiroz,PSDB,Meio Ambiente,10,5,50
+Luiz Carlos Hauly,PODE,Economia,10,5,50
+Mauro Benevides Filho,UNIÃO,Economia,10,5,50
+Dr. Francisco,PT,Economia,10,5,50
+Junio Amaral,PL,Educação,10,5,50
+Marcelo Álvaro Antônio,PL,Meio Ambiente,10,5,50
+Max Lemos,PDT,Economia,10,5,50
+Jorge Solla,PT,Meio Ambiente,10,5,50
+Juliana Cardoso,PT,Economia,10,5,50
+Gustavo Gayer,PL,Economia,10,5,50
+Luiz Couto,PT,Meio Ambiente,10,5,50
+Jorge Solla,PT,Educação,10,5,50
+Rodrigo Valadares,PL,Economia,10,5,50
+Diego Andrade,PSD,Educação,10,5,50
+Aluisio Mendes,REPUBLICANOS,Educação,10,5,50
+Defensor Stélio Dener,UNIÃO,Meio Ambiente,10,5,50
+Ricardo Ayres,REPUBLICANOS,Meio Ambiente,10,5,50
+Magda Mofatto,PL,Meio Ambiente,10,5,50
+Altineu Côrtes,PL,Educação,10,4,40
+Murilo Galdino,REPUBLICANOS,Economia,10,4,40
+Nely Aquino,PODE,Economia,10,4,40
+Carlos Jordy,PL,Economia,10,4,40
+Sargento Gonçalves,PL,Meio Ambiente,10,4,40
+Zé Trovão,PL,Educação,10,4,40
+Iza Arruda,MDB,Educação,10,4,40
+Sanderson,PL,Meio Ambiente,10,4,40
+Fernando Monteiro,PSD,Economia,10,4,40
+Diego Coronel,REPUBLICANOS,Meio Ambiente,10,4,40
+Pastor Gil,PL,Meio Ambiente,10,4,40
+Ivoneide Caetano,PT,Educação,10,4,40
+Mauricio Marcon,PL,Economia,10,4,40
+Geovania de Sá,PSDB,Meio Ambiente,10,4,40
+Bebeto,PP,Educação,10,4,40
+Gilson Daniel,PODE,Educação,10,4,40
+Ricardo Guidi,PL,Economia,10,4,40
+Olival Marques,PODE,Economia,10,4,40
+Soraya Santos,PL,Economia,10,4,40
+Daniel Almeida,PCdoB,Educação,10,4,40
+Gilberto Abramo,REPUBLICANOS,Educação,10,4,40
+Marcelo Crivella,REPUBLICANOS,Meio Ambiente,10,4,40
+Dr. Fernando Máximo,PL,Educação,10,4,40
+Fausto Jr.,UNIÃO,Economia,10,4,40
+Chico Alencar,PSOL,Economia,10,4,40
+Célio Studart,PSD,Meio Ambiente,10,4,40
+Paulo Magalhães,PSD,Economia,10,4,40
+Aliel Machado,PV,Economia,10,4,40
+Olival Marques,PODE,Educação,10,4,40
+Lafayette de Andrada,PL,Meio Ambiente,10,4,40
+Nelson Barbudo,PODE,Economia,10,4,40
+Luiz Carlos Motta,PL,Economia,10,4,40
+Ricardo Maia,MDB,Educação,10,4,40
+Felipe Carreras,PSB,Economia,10,4,40
+Pedro Aihara,PP,Economia,10,4,40
+Reimont,PT,Educação,10,4,40
+Carlos Chiodini,MDB,Educação,10,4,40
+Doutor Luizinho,PP,Meio Ambiente,10,4,40
+Baleia Rossi,MDB,Meio Ambiente,10,4,40
+Rosângela Reis,PL,Educação,10,4,40
+Silvio Costa Filho,REPUBLICANOS,Educação,10,4,40
+Hercílio Coelho Diniz,MDB,Meio Ambiente,10,4,40
+Arlindo Chinaglia,PT,Educação,10,4,40
+Luiza Erundina,PSOL,Economia,10,4,40
+Fernando Monteiro,PSD,Educação,10,4,40
+Rodrigo Rollemberg,PSB,Meio Ambiente,10,4,40
+Socorro Neri,PP,Economia,10,4,40
+Gilberto Nascimento,PSD,Meio Ambiente,10,4,40
+Luciano Amaral,PSD,Meio Ambiente,10,4,40
+Elmar Nascimento,UNIÃO,Meio Ambiente,10,4,40
+Neto Carletto,AVANTE,Meio Ambiente,10,4,40
+David Soares,PODE,Meio Ambiente,10,4,40
+Miguel Ângelo,PT,Meio Ambiente,10,4,40
+Iza Arruda,MDB,Economia,10,4,40
+Felipe Carreras,PSB,Meio Ambiente,10,4,40
+Lindbergh Farias,PT,Meio Ambiente,10,4,40
+Diego Coronel,REPUBLICANOS,Educação,10,4,40
+Eduardo Velloso,SOLIDARIEDADE,Meio Ambiente,10,4,40
+Arthur Lira,PP,Meio Ambiente,10,4,40
+Jilmar Tatto,PT,Economia,10,4,40
+Stefano Aguiar,PSD,Educação,10,4,40
+Any Ortiz,CIDADANIA,Meio Ambiente,10,4,40
+Zeca Dirceu,PT,Educação,10,4,40
+Amaro Neto,PP,Educação,10,4,40
+Vicentinho Júnior,PSDB,Economia,10,4,40
+Coronel Ulysses,UNIÃO,Educação,10,4,40
+Mauricio Neves,PP,Meio Ambiente,10,4,40
+Juninho do Pneu,PSDB,Economia,10,4,40
+Dagoberto Nogueira,PP,Meio Ambiente,10,4,40
+José Nelto,UNIÃO,Economia,10,4,40
+Da Vitoria,PP,Economia,10,4,40
+Nikolas Ferreira,PL,Meio Ambiente,10,4,40
+Mário Negromonte Jr.,PSB,Meio Ambiente,10,4,40
+Carlos Gomes,REPUBLICANOS,Meio Ambiente,10,4,40
+Ricardo Maia,MDB,Economia,10,4,40
+Dimas Gadelha,PT,Meio Ambiente,10,4,40
+Chris Tonietto,PL,Economia,10,4,40
+Sóstenes Cavalcante,PL,Meio Ambiente,10,4,40
+Erika Kokay,PT,Educação,10,4,40
+Fred Linhares,REPUBLICANOS,Meio Ambiente,10,4,40
+Juarez Costa,REPUBLICANOS,Meio Ambiente,10,4,40
+Jadyel Alencar,REPUBLICANOS,Economia,10,4,40
+Dr. Victor Linhalis,PODE,Educação,10,4,40
+Thiago de Joaldo,REPUBLICANOS,Educação,10,4,40
+Fernando Monteiro,PSD,Meio Ambiente,10,4,40
+Laura Carneiro,PSD,Educação,10,4,40
+Delegado Palumbo,PODE,Meio Ambiente,10,4,40
+Dandara,PT,Economia,10,4,40
+Matheus Noronha,PL,Meio Ambiente,10,4,40
+Erika Kokay,PT,Economia,10,4,40
+Fernanda Pessoa,PSD,Meio Ambiente,10,4,40
+Camila Jara,PT,Meio Ambiente,10,4,40
+Félix Mendonça Júnior,PDT,Meio Ambiente,10,4,40
+Jefferson Campos,PL,Educação,10,4,40
+Raimundo Costa,PSD,Economia,10,4,40
+Eduardo Velloso,SOLIDARIEDADE,Educação,10,4,40
+Helder Salomão,PT,Economia,10,4,40
+Daniel Agrobom,PL,Economia,10,4,40
+José Priante,MDB,Meio Ambiente,10,4,40
+Natália Bonavides,PT,Educação,10,4,40
+Adilson Barroso,PL,Economia,10,4,40
+Tião Medeiros,PP,Economia,10,4,40
+André Janones,REDE,Meio Ambiente,10,4,40
+Leur Lomanto Júnior,UNIÃO,Meio Ambiente,10,4,40
+Bebeto,PP,Economia,10,4,40
+Raimundo Costa,PSD,Meio Ambiente,10,4,40
+Eunício Oliveira,MDB,Meio Ambiente,10,4,40
+Flávio Nogueira,PT,Educação,10,4,40
+Alfredinho,PT,Educação,10,4,40
+Daiana Santos,PCdoB,Economia,10,4,40
+Charles Fernandes,PSD,Educação,10,4,40
+Carlos Henrique Gaguim,UNIÃO,Meio Ambiente,10,4,40
+Márcio Biolchi,MDB,Meio Ambiente,10,4,40
+Gilvan da Federal,PL,Meio Ambiente,10,4,40
+Márcio Marinho,REPUBLICANOS,Economia,10,4,40
+Henderson Pinto,UNIÃO,Economia,10,4,40
+Marcos Aurélio Sampaio,MDB,Educação,10,4,40
+Julia Zanatta,PL,Educação,10,4,40
+Professora Marcivania,PCdoB,Educação,10,4,40
+Tiago Dimas,PODE,Educação,10,4,40
+Icaro de Valmir,REPUBLICANOS,Meio Ambiente,10,4,40
+Mersinho Lucena,PSD,Economia,10,4,40
+Alfredinho,PT,Meio Ambiente,10,4,40
+Reginaldo Lopes,PT,Economia,10,4,40
+Odair Cunha,PT,Educação,10,4,40
+Vermelho,PP,Meio Ambiente,10,4,40
+Erika Hilton,PSOL,Educação,10,4,40
+Marcio Alvino,PL,Meio Ambiente,10,4,40
+José Rocha,UNIÃO,Meio Ambiente,10,4,40
+Greyce Elias,AVANTE,Meio Ambiente,10,4,40
+Dilvanda Faro,PT,Meio Ambiente,10,4,40
+Paulinho da Força,SOLIDARIEDADE,Educação,10,4,40
+Marcos Soares,PSDB,Economia,10,4,40
+Amanda Gentil,PP,Economia,10,4,40
+Elmar Nascimento,UNIÃO,Economia,10,4,40
+Fernanda Melchionna,PSOL,Educação,10,4,40
+Rafael Prudente,MDB,Economia,10,4,40
+Benes Leocádio,UNIÃO,Meio Ambiente,10,4,40
+Jorge Braz,REPUBLICANOS,Meio Ambiente,10,4,40
+Tadeu Veneri,PT,Educação,10,4,40
+Hildo Rocha,MDB,Economia,10,4,40
+Filipe Barros,PL,Educação,10,4,40
+Dr. Zacharias Calil,UNIÃO,Educação,10,4,40
+Merlong Solano,PT,Educação,10,4,40
+Fred Costa,PRD,Educação,10,4,40
+Rodolfo Nogueira,PL,Educação,10,4,40
+Fernanda Melchionna,PSOL,Economia,10,4,40
+Newton Cardoso Jr,MDB,Educação,10,4,40
+Prof. Reginaldo Veras,PV,Educação,10,4,40
+Robério Monteiro,PSB,Economia,10,4,40
+Miguel Lombardi,PL,Economia,10,4,40
+Gutemberg Reis,MDB,Economia,10,4,40
+João Cury,MDB,Meio Ambiente,10,4,40
+Daiana Santos,PCdoB,Meio Ambiente,10,4,40
+Glaustin da Fokus,PODE,Meio Ambiente,10,4,40
+Lêda Borges,REPUBLICANOS,Economia,10,4,40
+Antonio Andrade,REPUBLICANOS,Meio Ambiente,10,4,40
+Domingos Neto,PSD,Economia,10,4,40
+Joseildo Ramos,PT,Meio Ambiente,10,4,40
+Cezinha de Madureira,PL,Meio Ambiente,10,4,40
+André Janones,REDE,Economia,10,4,40
+Jorge Goetten,REPUBLICANOS,Meio Ambiente,10,4,40
+Talíria Petrone,PSOL,Economia,10,4,40
+Clodoaldo Magalhães,PV,Economia,10,4,40
+Coronel Meira,PL,Educação,10,4,40
+Luiz Couto,PT,Educação,10,4,40
+Maurício Carvalho,UNIÃO,Educação,10,4,40
+Eros Biondini,PL,Economia,10,4,40
+Pompeo de Mattos,PDT,Educação,10,4,40
+Josenildo,PDT,Economia,10,4,40
+Lafayette de Andrada,PL,Economia,10,4,40
+Nely Aquino,PODE,Meio Ambiente,10,4,40
+Gabriel Mota,UNIÃO,Meio Ambiente,10,4,40
+Cleber Verde,MDB,Meio Ambiente,10,4,40
+Helio Lopes,PL,Meio Ambiente,10,4,40
+Delegado Marcelo Freitas,UNIÃO,Economia,10,4,40
+José Airton Félix Cirilo,PT,Meio Ambiente,10,4,40
+Gervásio Maia,PCdoB,Meio Ambiente,10,4,40
+Felipe Becari,PODE,Educação,10,4,40
+Pedro Lucas Fernandes,UNIÃO,Economia,10,4,40
+Helder Salomão,PT,Educação,10,4,40
+Osmar Terra,PL,Meio Ambiente,10,4,40
+Meire Serafim,UNIÃO,Educação,10,4,40
+Luiza Erundina,PSOL,Meio Ambiente,10,4,40
+Eduardo da Fonte,PP,Meio Ambiente,10,4,40
+Dal Barreto,UNIÃO,Economia,10,4,40
+Kiko Celeguim,PT,Economia,10,4,40
+Evair Vieira de Melo,PP,Educação,10,4,40
+Coronel Chrisóstomo,PL,Educação,10,4,40
+Silvye Alves,UNIÃO,Meio Ambiente,10,4,40
+Yandra Moura,UNIÃO,Meio Ambiente,10,4,40
+Greyce Elias,AVANTE,Educação,10,4,40
+Lindbergh Farias,PT,Educação,10,4,40
+Emanuel Pinheiro Neto,PSD,Educação,10,4,40
+Ricardo Barros,PP,Meio Ambiente,10,4,40
+Raimundo Santos,PSD,Meio Ambiente,10,4,40
+Charles Fernandes,PSD,Meio Ambiente,10,4,40
+Beto Pereira,REPUBLICANOS,Economia,10,4,40
+Antônia Lúcia,MDB,Meio Ambiente,10,4,40
+Renilce Nicodemos,MDB,Economia,10,4,40
+Delegada Katarina,PSD,Economia,10,4,40
+Daniel Agrobom,PL,Meio Ambiente,10,4,40
+Coronel Fernanda,PL,Meio Ambiente,10,4,40
+Antonio Brito,PSD,Meio Ambiente,10,4,40
+Júlio Cesar,PSD,Meio Ambiente,10,4,40
+Márcio Biolchi,MDB,Economia,10,4,40
+Fernando Coelho Filho,UNIÃO,Economia,10,4,40
+Fabio Garcia,UNIÃO,Educação,10,4,40
+Pr. Marco Feliciano,PL,Economia,10,4,40
+Marangoni,UNIÃO,Economia,10,4,40
+David Soares,PODE,Educação,10,4,40
+Osmar Terra,PL,Educação,10,4,40
+Professor Alcides,PSDB,Economia,10,4,40
+Albuquerque,REPUBLICANOS,Meio Ambiente,10,4,40
+Paulo Freire Costa,PL,Educação,10,4,40
+Dr. Ismael Alexandrino,PSD,Economia,10,4,40
+Pedro Uczai,PT,Meio Ambiente,10,4,40
+Delegado Caveira,PL,Educação,10,4,40
+Ana Paula Lima,PT,Meio Ambiente,10,4,40
+Cristiane Lopes,PODE,Educação,10,4,40
+David Soares,PODE,Economia,10,4,40
+Ribamar Silva,PSD,Meio Ambiente,10,4,40
+Fernando Coelho Filho,UNIÃO,Meio Ambiente,10,4,40
+Toninho Wandscheer,PP,Educação,10,4,40
+Daniel Trzeciak,PSDB,Educação,10,4,40
+Ismael,PL,Educação,10,4,40
+Waldenor Pereira,PT,Economia,10,4,40
+Carlos Zarattini,PT,Educação,10,4,40
+Sargento Fahur,PL,Economia,10,4,40
+Márcio Jerry,PCdoB,Economia,10,4,40
+Luiz Carlos Busato,UNIÃO,Economia,10,4,40
+Messias Donato,UNIÃO,Economia,10,4,40
+Dandara,PT,Meio Ambiente,10,4,40
+Delegado Matheus Laiola,UNIÃO,Meio Ambiente,10,4,40
+Marcos Pollon,PL,Economia,10,4,40
+Pinheirinho,PP,Economia,10,4,40
+Dal Barreto,UNIÃO,Meio Ambiente,10,4,40
+Márcio Honaiser,SOLIDARIEDADE,Economia,10,4,40
+Vander Loubet,PT,Meio Ambiente,10,4,40
+Célio Studart,PSD,Economia,10,4,40
+Ricardo Guidi,PL,Educação,10,4,40
+Natália Bonavides,PT,Meio Ambiente,10,4,40
+Marcos Pollon,PL,Meio Ambiente,10,4,40
+Fábio Macedo,PODE,Economia,10,4,40
+Aline Gurgel,UNIÃO,Economia,10,4,40
+Capitão Augusto,PL,Economia,10,4,40
+Miguel Ângelo,PT,Economia,10,4,40
+Sargento Portugal,PODE,Educação,10,4,40
+Tiririca,PSD,Educação,10,4,40
+Mauro Benevides Filho,UNIÃO,Meio Ambiente,10,4,40
+Bohn Gass,PT,Economia,10,4,40
+André Fufuca,PP,Educação,10,4,40
+Welter,PT,Economia,10,4,40
+Lídice da Mata,PSB,Educação,10,4,40
+Cezinha de Madureira,PL,Economia,10,4,40
+Marcelo Crivella,REPUBLICANOS,Economia,10,4,40
+Marangoni,UNIÃO,Meio Ambiente,10,4,40
+Paulinho da Força,SOLIDARIEDADE,Meio Ambiente,10,4,40
+Afonso Motta,PDT,Educação,10,4,40
+Vinicius Gurgel,PL,Economia,10,4,40
+Vinicius Carvalho,PL,Economia,10,4,40
+Ana Pimentel,PT,Economia,10,4,40
+Moses Rodrigues,UNIÃO,Meio Ambiente,10,4,40
+Dr. Jaziel,PL,Meio Ambiente,10,4,40
+Josivaldo JP,PSD,Meio Ambiente,10,4,40
+Yandra Moura,UNIÃO,Educação,10,4,40
+André Figueiredo,PDT,Economia,10,4,40
+Reimont,PT,Economia,10,4,40
+Domingos Sávio,PL,Meio Ambiente,10,4,40
+Duarte Jr.,AVANTE,Educação,10,4,40
+Paulo Lemos,PT,Economia,10,4,40
+Filipe Martins,PL,Educação,10,4,40
+Franciane Bayer,REPUBLICANOS,Economia,10,4,40
+Yandra Moura,UNIÃO,Economia,10,4,40
+Mauricio do Vôlei,PL,Meio Ambiente,10,4,40
+Felipe Francischini,PODE,Meio Ambiente,10,4,40
+Bibo Nunes,PL,Meio Ambiente,10,4,40
+Flávio Nogueira,PT,Economia,10,4,40
+André Abdon,PP,Economia,10,4,40
+Dr. Daniel Soranz,PSD,Educação,10,4,40
+Bia Kicis,PL,Meio Ambiente,10,4,40
+José Medeiros,PL,Educação,10,4,40
+Alexandre Lindenmeyer,PT,Meio Ambiente,10,4,40
+Felipe Becari,PODE,Meio Ambiente,10,4,40
+André Ferreira,PL,Economia,10,4,40
+Odair Cunha,PT,Economia,10,4,40
+Bandeira de Mello,PV,Economia,10,4,40
+Daniela do Waguinho,REPUBLICANOS,Meio Ambiente,10,4,40
+Célio Silveira,MDB,Meio Ambiente,10,4,40
+Robério Monteiro,PSB,Educação,10,4,40
+Julio Lopes,PP,Meio Ambiente,10,4,40
+Márcio Honaiser,SOLIDARIEDADE,Educação,10,4,40
+Luiz Fernando Faria,UNIÃO,Economia,10,4,40
+Mário Heringer,PDT,Economia,10,4,40
+Roberta Roma,PL,Educação,10,4,40
+Coronel Assis,PL,Meio Ambiente,10,4,40
+Sargento Fahur,PL,Educação,10,4,40
+Silvio Costa Filho,REPUBLICANOS,Economia,10,4,40
+Lêda Borges,REPUBLICANOS,Educação,10,4,40
+Padre João,PT,Economia,10,4,40
+Pastor Diniz,UNIÃO,Meio Ambiente,10,4,40
+Túlio Gadêlha,PSD,Economia,10,4,40
+Saulo Pedroso,PSD,Educação,10,4,40
+Marcel van Hattem,NOVO,Educação,10,4,40
+Paulo Folletto,PSB,Economia,10,4,40
+Fred Linhares,REPUBLICANOS,Educação,10,4,40
+Gervásio Maia,PCdoB,Economia,10,4,40
+Delegado Éder Mauro,PL,Educação,10,4,40
+Leo Prates,PDT,Economia,10,4,40
+Kim Kataguiri,MISSÃO,Meio Ambiente,10,4,40
+Rubens Otoni,PT,Meio Ambiente,10,4,40
+Pastor Eurico,PSDB,Meio Ambiente,10,4,40
+General Pazuello,PL,Meio Ambiente,10,4,40
+João Maia,PP,Meio Ambiente,10,4,40
+Talíria Petrone,PSOL,Meio Ambiente,10,4,40
+Duda Ramos,PODE,Meio Ambiente,10,4,40
+Júlio Cesar,PSD,Educação,10,4,40
+Dr. Frederico,PRD,Educação,10,4,40
+Antônia Lúcia,MDB,Economia,10,4,40
+Odair Cunha,PT,Meio Ambiente,10,4,40
+Thiago Flores,UNIÃO,Economia,10,4,40
+Waldenor Pereira,PT,Educação,10,4,40
+Enfermeira Rejane,PCdoB,Meio Ambiente,10,4,40
+Zé Adriano,PP,Educação,10,4,40
+Airton Faleiro,PT,Economia,10,4,40
+Geraldo Resende,PSDB,Economia,10,4,40
+Altineu Côrtes,PL,Meio Ambiente,10,4,40
+Beto Richa,PSDB,Economia,10,4,40
+Daniel Trzeciak,PSDB,Economia,10,4,40
+Rodrigo da Zaeli,PL,Economia,10,4,40
+Zé Neto,PT,Educação,10,4,40
+Geraldo Resende,PSDB,Meio Ambiente,10,4,40
+Cristiane Lopes,PODE,Meio Ambiente,10,4,40
+Jorge Braz,REPUBLICANOS,Educação,10,4,40
+Marcelo Moraes,PL,Meio Ambiente,10,4,40
+Coronel Meira,PL,Meio Ambiente,10,4,40
+Newton Cardoso Jr,MDB,Meio Ambiente,10,4,40
+Marcos Soares,PSDB,Meio Ambiente,10,4,40
+Zé Haroldo Cathedral,UNIÃO,Educação,10,4,40
+Elcione Barbalho,MDB,Meio Ambiente,10,4,40
+Vanderlan Alves,SOLIDARIEDADE,Educação,10,4,40
+Giacobo,PSD,Educação,10,4,40
+Patrus Ananias,PT,Meio Ambiente,10,4,40
+Alexandre Guimarães,MDB,Meio Ambiente,10,4,40
+Paulão,PT,Meio Ambiente,10,4,40
+Beto Richa,PSDB,Educação,10,4,40
+Túlio Gadêlha,PSD,Meio Ambiente,10,4,40
+Maurício Carvalho,UNIÃO,Economia,10,4,40
+Amom Mandel,REPUBLICANOS,Meio Ambiente,10,4,40
+Rosana Valle,PL,Educação,10,4,40
+Robinson Faria,PP,Meio Ambiente,10,4,40
+Enfermeira Rejane,PCdoB,Educação,10,4,40
+Maria Rosas,REPUBLICANOS,Educação,10,4,40
+General Pazuello,PL,Economia,10,4,40
+Murillo Gouvea,PSDB,Educação,10,4,40
+Felipe Francischini,PODE,Economia,10,4,40
+Arthur Lira,PP,Educação,10,4,40
+Hugo Motta,REPUBLICANOS,Educação,10,4,40
+Alberto Fraga,PL,Meio Ambiente,10,4,40
+Delegado Palumbo,PODE,Economia,10,4,40
+Átila Lira,PP,Educação,10,4,40
+Delegado Paulo Bilynskyj,PL,Educação,10,4,40
+Ivoneide Caetano,PT,Economia,10,4,40
+Julio Lopes,PP,Economia,10,4,40
+Sóstenes Cavalcante,PL,Economia,10,4,40
+Roberto Monteiro Pai,PL,Meio Ambiente,10,4,40
+Gabriel Nunes,PSD,Meio Ambiente,10,4,40
+Guilherme Uchoa,PSD,Meio Ambiente,10,4,40
+Filipe Barros,PL,Economia,10,4,40
+Valmir Assunção,PT,Educação,10,4,40
+Misael Varella,PSD,Educação,10,4,40
+Altineu Côrtes,PL,Economia,10,4,40
+Pastor Sargento Isidório,AVANTE,Meio Ambiente,10,4,40
+Rodrigo Gambale,PODE,Meio Ambiente,10,4,40
+Rosangela Moro,PL,Educação,10,4,40
+Denise Pessôa,PT,Economia,10,4,40
+Murillo Gouvea,PSDB,Meio Ambiente,10,4,40
+Enfermeira Rejane,PCdoB,Economia,10,4,40
+Igor Timo,PSD,Educação,10,4,40
+AJ Albuquerque,PP,Educação,10,4,40
+Roberto Duarte,REPUBLICANOS,Meio Ambiente,10,4,40
+Jeferson Rodrigues,PSDB,Educação,10,4,40
+Fausto Jr.,UNIÃO,Educação,10,4,40
+Zeca Dirceu,PT,Economia,10,4,40
+Célio Silveira,MDB,Educação,10,4,40
+Cleber Verde,MDB,Educação,10,4,40
+Carla Dickson,UNIÃO,Educação,10,4,40
+Roberta Roma,PL,Meio Ambiente,10,4,40
+Luciano Vieira,PSDB,Educação,10,4,40
+Alexandre Guimarães,MDB,Economia,10,4,40
+Domingos Neto,PSD,Meio Ambiente,10,4,40
+Leonardo Monteiro,PT,Economia,10,3,30
+Renildo Calheiros,PCdoB,Educação,10,3,30
+Leur Lomanto Júnior,UNIÃO,Economia,10,3,30
+Acácio Favacho,MDB,Economia,10,3,30
+Orlando Silva,PCdoB,Meio Ambiente,10,3,30
+Rubens Pereira Júnior,PT,Meio Ambiente,10,3,30
+Bruno Ganem,PODE,Educação,10,3,30
+Rubens Otoni,PT,Educação,10,3,30
+Silvia Cristina,PP,Educação,10,3,30
+Duarte Jr.,AVANTE,Meio Ambiente,10,3,30
+Luiz Carlos Hauly,PODE,Educação,10,3,30
+Patrus Ananias,PT,Educação,10,3,30
+Luciano Ducci,PSB,Meio Ambiente,10,3,30
+Mauricio do Vôlei,PL,Economia,10,3,30
+Carlos Veras,PT,Economia,10,3,30
+Adolfo Viana,PSDB,Educação,10,3,30
+Dr Flávio,PL,Educação,10,3,30
+Gilson Marques,NOVO,Meio Ambiente,10,3,30
+Julio Lopes,PP,Educação,10,3,30
+Mersinho Lucena,PSD,Meio Ambiente,10,3,30
+Daniel Barbosa,PP,Meio Ambiente,10,3,30
+André Fernandes,PL,Meio Ambiente,10,3,30
+Castro Neto,MDB,Meio Ambiente,10,3,30
+Adail Filho,MDB,Meio Ambiente,10,3,30
+Pr. Marco Feliciano,PL,Educação,10,3,30
+Fernando Mineiro,PT,Economia,10,3,30
+Romero Rodrigues,PODE,Meio Ambiente,10,3,30
+Marcelo Moraes,PL,Economia,10,3,30
+Caroline de Toni,PL,Economia,10,3,30
+Nicoletti,PL,Meio Ambiente,10,3,30
+Cabo Gilberto Silva,PL,Meio Ambiente,10,3,30
+André Fernandes,PL,Economia,10,3,30
+Luizianne Lins,REDE,Meio Ambiente,10,3,30
+Elcione Barbalho,MDB,Educação,10,3,30
+Tião Medeiros,PP,Meio Ambiente,10,3,30
+Cobalchini,MDB,Meio Ambiente,10,3,30
+Gustinho Ribeiro,PP,Educação,10,3,30
+Fernanda Melchionna,PSOL,Meio Ambiente,10,3,30
+Nilto Tatto,PT,Economia,10,3,30
+Júnior Ferrari,PSD,Meio Ambiente,10,3,30
+Luisa Canziani,PSD,Meio Ambiente,10,3,30
+André Fernandes,PL,Educação,10,3,30
+Carol Dartora,PT,Meio Ambiente,10,3,30
+Alencar Santana,PT,Meio Ambiente,10,3,30
+Vander Loubet,PT,Educação,10,3,30
+Thiago de Joaldo,REPUBLICANOS,Meio Ambiente,10,3,30
+Fernando Rodolfo,PRD,Educação,10,3,30
+Missionário José Olimpio,PL,Educação,10,3,30
+Renata Abreu,PODE,Economia,10,3,30
+Gilson Daniel,PODE,Economia,10,3,30
+Lêda Borges,REPUBLICANOS,Meio Ambiente,10,3,30
+Professora Marcivania,PCdoB,Meio Ambiente,10,3,30
+Igor Timo,PSD,Meio Ambiente,10,3,30
+Carlos Gomes,REPUBLICANOS,Educação,10,3,30
+Gilson Marques,NOVO,Educação,10,3,30
+Rodrigo Gambale,PODE,Economia,10,3,30
+Juliana Cardoso,PT,Meio Ambiente,10,3,30
+Emanuel Pinheiro Neto,PSD,Meio Ambiente,10,3,30
+Adolfo Viana,PSDB,Economia,10,3,30
+Luiz Carlos Busato,UNIÃO,Educação,10,3,30
+Eunício Oliveira,MDB,Educação,10,3,30
+Sargento Fahur,PL,Meio Ambiente,10,3,30
+Pastor Henrique Vieira,PSOL,Meio Ambiente,10,3,30
+Paulo Freire Costa,PL,Economia,10,3,30
+Emidinho Madeira,PL,Educação,10,3,30
+Alencar Santana,PT,Economia,10,3,30
+Felipe Becari,PODE,Economia,10,3,30
+Aécio Neves,PSDB,Educação,10,3,30
+Arthur Lira,PP,Economia,10,3,30
+Rosana Valle,PL,Economia,10,3,30
+Pedro Westphalen,PP,Meio Ambiente,10,3,30
+Jeferson Rodrigues,PSDB,Economia,10,3,30
+Aluisio Mendes,REPUBLICANOS,Economia,10,3,30
+Juscelino Filho,PSDB,Meio Ambiente,10,3,30
+Milton Vieira,REPUBLICANOS,Meio Ambiente,10,3,30
+Rodrigo de Castro,UNIÃO,Meio Ambiente,10,3,30
+Benedita da Silva,PT,Meio Ambiente,10,3,30
+Nelson Barbudo,PODE,Meio Ambiente,10,3,30
+Thiago Flores,UNIÃO,Meio Ambiente,10,3,30
+Ruy Carneiro,PODE,Educação,10,3,30
+Dilceu Sperafico,PP,Economia,10,3,30
+Mersinho Lucena,PSD,Educação,10,3,30
+Paulo Abi-Ackel,PSDB,Educação,10,3,30
+Luisa Canziani,PSD,Educação,10,3,30
+Miguel Lombardi,PL,Meio Ambiente,10,3,30
+Carlos Chiodini,MDB,Meio Ambiente,10,3,30
+Isnaldo Bulhões Jr.,MDB,Economia,10,3,30
+Eli Borges,REPUBLICANOS,Educação,10,3,30
+Zé Adriano,PP,Meio Ambiente,10,3,30
+Denise Pessôa,PT,Meio Ambiente,10,3,30
+Gilberto Abramo,REPUBLICANOS,Economia,10,3,30
+Danilo Forte,PP,Educação,10,3,30
+Rodrigo Valadares,PL,Meio Ambiente,10,3,30
+Danilo Forte,PP,Economia,10,3,30
+Dilceu Sperafico,PP,Educação,10,3,30
+Damião Feliciano,UNIÃO,Economia,10,3,30
+Ana Pimentel,PT,Educação,10,3,30
+Sóstenes Cavalcante,PL,Educação,10,3,30
+Mauricio Marcon,PL,Meio Ambiente,10,3,30
+Coronel Ulysses,UNIÃO,Economia,10,3,30
+Damião Feliciano,UNIÃO,Meio Ambiente,10,3,30
+Rubens Pereira Júnior,PT,Educação,10,3,30
+Reginaldo Lopes,PT,Meio Ambiente,10,3,30
+Laura Carneiro,PSD,Meio Ambiente,10,3,30
+Pezenti,MDB,Economia,10,3,30
+Saulo Pedroso,PSD,Meio Ambiente,10,3,30
+Carla Dickson,UNIÃO,Meio Ambiente,10,3,30
+Alberto Fraga,PL,Educação,10,3,30
+Eduardo Bismarck,PV,Meio Ambiente,10,3,30
+Gilberto Abramo,REPUBLICANOS,Meio Ambiente,10,3,30
+Icaro de Valmir,REPUBLICANOS,Educação,10,3,30
+André Abdon,PP,Educação,10,3,30
+Pompeo de Mattos,PDT,Meio Ambiente,10,3,30
+Luiz Philippe de Orleans e Bragança,PL,Meio Ambiente,10,3,30
+Neto Carletto,AVANTE,Economia,10,3,30
+Marcon,PT,Educação,10,3,30
+Ana Paula Lima,PT,Economia,10,3,30
+Rodrigo de Castro,UNIÃO,Educação,10,3,30
+Célia Xakriabá,PSOL,Meio Ambiente,10,3,30
+Misael Varella,PSD,Meio Ambiente,10,3,30
+Moses Rodrigues,UNIÃO,Educação,10,3,30
+Carol Dartora,PT,Economia,10,3,30
+Pedro Aihara,PP,Meio Ambiente,10,3,30
+Nikolas Ferreira,PL,Economia,10,3,30
+Rafael Brito,MDB,Educação,10,3,30
+Clodoaldo Magalhães,PV,Educação,10,3,30
+Carlos Henrique Gaguim,UNIÃO,Economia,10,3,30
+Rui Falcão,PT,Economia,10,3,30
+Helena Lima,PSD,Meio Ambiente,10,3,30
+Coronel Assis,PL,Economia,10,3,30
+Erika Hilton,PSOL,Economia,10,3,30
+Luciano Bivar,MDB,Economia,10,3,30
+Ivoneide Caetano,PT,Meio Ambiente,10,3,30
+Nilto Tatto,PT,Educação,10,3,30
+Fabio Schiochet,UNIÃO,Meio Ambiente,10,3,30
+Alexandre Leite,UNIÃO,Economia,10,3,30
+Zezinho Barbary,PP,Educação,10,3,30
+João Maia,PP,Economia,10,3,30
+Luisa Canziani,PSD,Economia,10,3,30
+Duda Ramos,PODE,Economia,10,3,30
+Nelson Barbudo,PODE,Educação,10,3,30
+Rafael Prudente,MDB,Educação,10,3,30
+Camila Jara,PT,Economia,10,3,30
+Wilson Santiago,REPUBLICANOS,Meio Ambiente,10,3,30
+Reimont,PT,Meio Ambiente,10,3,30
+Robinson Faria,PP,Educação,10,3,30
+Daniel Freitas,PL,Educação,10,3,30
+Dr. Ismael Alexandrino,PSD,Educação,10,3,30
+Dorinaldo Malafaia,PDT,Educação,10,3,30
+Pedro Campos,PSB,Educação,10,3,30
+Otoni de Paula,PSD,Educação,10,3,30
+Pedro Lupion,REPUBLICANOS,Meio Ambiente,10,3,30
+Rosângela Reis,PL,Meio Ambiente,10,3,30
+Prof. Reginaldo Veras,PV,Meio Ambiente,10,3,30
+Lincoln Portela,PL,Meio Ambiente,10,3,30
+Socorro Neri,PP,Meio Ambiente,10,3,30
+Bruno Farias,REPUBLICANOS,Meio Ambiente,10,3,30
+Marcelo Álvaro Antônio,PL,Economia,10,3,30
+Mário Heringer,PDT,Educação,10,3,30
+Icaro de Valmir,REPUBLICANOS,Economia,10,3,30
+Dr. Frederico,PRD,Economia,10,3,30
+Eli Borges,REPUBLICANOS,Economia,10,3,30
+Delegado da Cunha,PP,Educação,10,3,30
+Tiririca,PSD,Economia,10,3,30
+Vanderlan Alves,SOLIDARIEDADE,Economia,10,3,30
+Tarcísio Motta,PSOL,Educação,10,3,30
+Dr. Zacharias Calil,UNIÃO,Economia,10,3,30
+Juscelino Filho,PSDB,Economia,10,3,30
+Alexandre Guimarães,MDB,Educação,10,3,30
+Adail Filho,MDB,Educação,10,3,30
+Bacelar,PV,Educação,10,3,30
+Romero Rodrigues,PODE,Educação,10,3,30
+Benes Leocádio,UNIÃO,Economia,10,3,30
+Luiz Couto,PT,Economia,10,3,30
+Daniel Freitas,PL,Economia,10,3,30
+Jefferson Campos,PL,Economia,10,3,30
+Iza Arruda,MDB,Meio Ambiente,10,3,30
+Fausto Pinato,PP,Meio Ambiente,10,3,30
+Rodrigo da Zaeli,PL,Meio Ambiente,10,3,30
+Vinicius Gurgel,PL,Meio Ambiente,10,3,30
+Pastor Sargento Isidório,AVANTE,Economia,10,3,30
+Daniel Trzeciak,PSDB,Meio Ambiente,10,3,30
+Afonso Hamm,PP,Economia,10,3,30
+Kim Kataguiri,MISSÃO,Educação,10,3,30
+Átila Lins,PSD,Educação,10,3,30
+Rogéria Santos,REPUBLICANOS,Educação,10,3,30
+Dr. Fernando Máximo,PL,Meio Ambiente,10,3,30
+Átila Lira,PP,Economia,10,3,30
+Marcos Aurélio Sampaio,MDB,Meio Ambiente,10,3,30
+Matheus Noronha,PL,Educação,10,3,30
+Rodrigo Gambale,PODE,Educação,10,3,30
+Jorge Goetten,REPUBLICANOS,Educação,10,3,30
+Lucio Mosquini,PL,Economia,10,3,30
+Delegada Katarina,PSD,Educação,10,3,30
+Murilo Galdino,REPUBLICANOS,Meio Ambiente,10,3,30
+Luiz Carlos Hauly,PODE,Meio Ambiente,10,3,30
+Keniston Braga,MDB,Educação,10,3,30
+Zé Haroldo Cathedral,UNIÃO,Meio Ambiente,10,3,30
+Dimas Fabiano,PP,Educação,10,3,30
+Rosangela Moro,PL,Economia,10,3,30
+Weliton Prado,SOLIDARIEDADE,Educação,10,3,30
+Saullo Vianna,MDB,Economia,10,3,30
+Pinheirinho,PP,Educação,10,3,30
+Diego Andrade,PSD,Economia,10,3,30
+José Medeiros,PL,Economia,10,3,30
+Ricardo Guidi,PL,Meio Ambiente,10,3,30
+Túlio Gadêlha,PSD,Educação,10,3,30
+Jandira Feghali,PCdoB,Economia,10,3,30
+Pompeo de Mattos,PDT,Economia,10,3,30
+Ana Pimentel,PT,Meio Ambiente,10,3,30
+Carol Dartora,PT,Educação,10,3,30
+Simone Marquetto,PP,Meio Ambiente,10,3,30
+Gilberto Nascimento,PSD,Economia,10,3,30
+Hugo Leal,PSD,Meio Ambiente,10,3,30
+Maria Arraes,PSB,Economia,10,3,30
+Ismael,PL,Economia,10,3,30
+Daniel Almeida,PCdoB,Meio Ambiente,10,3,30
+João Carlos Bacelar,PL,Educação,10,3,30
+Danilo Forte,PP,Meio Ambiente,10,3,30
+Fabio Reis,PSD,Educação,10,3,30
+Idilvan Alencar,PSB,Educação,10,3,30
+Eduardo Bismarck,PV,Economia,10,3,30
+Nely Aquino,PODE,Educação,10,3,30
+Matheus Noronha,PL,Economia,10,3,30
+Delegado Fabio Costa,PP,Educação,10,3,30
+Juliana Cardoso,PT,Educação,10,3,30
+Rui Falcão,PT,Educação,10,3,30
+Josivaldo JP,PSD,Educação,10,3,30
+Célio Studart,PSD,Educação,10,3,30
+Paulo Alexandre Barbosa,PSDB,Educação,10,3,30
+Ana Paula Lima,PT,Educação,10,3,30
+Átila Lins,PSD,Meio Ambiente,10,3,30
+Celso Sabino,PDT,Meio Ambiente,10,3,30
+Fernando Rodolfo,PRD,Economia,10,3,30
+Flávia Morais,PDT,Meio Ambiente,10,3,30
+Tiririca,PSD,Meio Ambiente,10,3,30
+Amaro Neto,PP,Economia,10,3,30
+Mário Negromonte Jr.,PSB,Educação,10,3,30
+Marcelo Crivella,REPUBLICANOS,Educação,10,3,30
+Pinheirinho,PP,Meio Ambiente,10,3,30
+Luciano Ducci,PSB,Economia,10,3,30
+Jefferson Campos,PL,Meio Ambiente,10,3,30
+Josivaldo JP,PSD,Economia,10,3,30
+Augusto Coutinho,REPUBLICANOS,Economia,10,3,30
+Meire Serafim,UNIÃO,Meio Ambiente,10,3,30
+Eli Borges,REPUBLICANOS,Meio Ambiente,10,3,30
+Evair Vieira de Melo,PP,Meio Ambiente,10,3,30
+Márcio Jerry,PCdoB,Meio Ambiente,10,3,30
+Eriberto Medeiros,PSB,Economia,10,3,30
+Gleisi Hoffmann,PT,Educação,10,3,30
+Cabo Gilberto Silva,PL,Economia,10,3,30
+Domingos Sávio,PL,Educação,10,3,30
+Luciano Amaral,PSD,Educação,10,3,30
+Alexandre Lindenmeyer,PT,Economia,10,3,30
+Zucco,PL,Educação,10,3,30
+Duda Salabert,PSOL,Educação,10,3,30
+Alfredo Gaspar,UNIÃO,Educação,10,3,30
+Rafael Fera,PODE,Meio Ambiente,10,3,30
+Tabata Amaral,PSB,Meio Ambiente,10,3,30
+Renilce Nicodemos,MDB,Educação,10,3,30
+Fred Costa,PRD,Economia,10,3,30
+Rodolfo Nogueira,PL,Economia,10,3,30
+Miguel Ângelo,PT,Educação,10,3,30
+Arthur Oliveira Maia,UNIÃO,Educação,10,3,30
+Guilherme Uchoa,PSD,Educação,10,3,30
+Maurício Carvalho,UNIÃO,Meio Ambiente,10,3,30
+Paulo Alexandre Barbosa,PSDB,Meio Ambiente,10,3,30
+Claudio Cajado,PP,Educação,10,3,30
+Adriana Ventura,NOVO,Educação,10,3,30
+General Girão,PL,Economia,10,3,30
+Flávia Morais,PDT,Economia,10,3,30
+Tabata Amaral,PSB,Educação,10,3,30
+Cobalchini,MDB,Educação,10,3,30
+Rodrigo Valadares,PL,Educação,10,3,30
+Delegado Bruno Lima,PODE,Economia,10,3,30
+Arlindo Chinaglia,PT,Economia,10,3,30
+Paulo Litro,UNIÃO,Educação,10,3,30
+Heitor Schuch,PSD,Meio Ambiente,10,3,30
+Alex Manente,CIDADANIA,Meio Ambiente,10,3,30
+Otoni de Paula,PSD,Economia,10,3,30
+Juninho do Pneu,PSDB,Educação,10,3,30
+Aliel Machado,PV,Educação,10,3,30
+Nilto Tatto,PT,Meio Ambiente,10,3,30
+Leandre,PSD,Economia,10,3,30
+Lafayette de Andrada,PL,Educação,10,3,30
+Capitão Augusto,PL,Educação,10,3,30
+Alfredo Gaspar,UNIÃO,Economia,10,3,30
+Rafael Brito,MDB,Economia,10,3,30
+AJ Albuquerque,PP,Meio Ambiente,10,3,30
+Márcio Biolchi,MDB,Educação,10,3,30
+Zeca Dirceu,PT,Meio Ambiente,10,3,30
+Antonio Carlos Rodrigues,PL,Educação,10,3,30
+Giovani Cherini,PL,Economia,10,3,30
+Marcos Pereira,REPUBLICANOS,Educação,10,3,30
+Lídice da Mata,PSB,Meio Ambiente,10,3,30
+Dilvanda Faro,PT,Economia,10,3,30
+Andreia Siqueira,PSB,Meio Ambiente,10,3,30
+Emidinho Madeira,PL,Economia,10,3,30
+Nikolas Ferreira,PL,Educação,10,3,30
+Gabriel Nunes,PSD,Economia,10,3,30
+Alberto Fraga,PL,Economia,10,3,30
+José Rocha,UNIÃO,Educação,10,3,30
+Geraldo Mendes,UNIÃO,Economia,10,3,30
+Dra. Alessandra Haber,PODE,Educação,10,3,30
+Guilherme Uchoa,PSD,Economia,10,3,30
+Heloísa Helena,REDE,Educação,10,3,30
+Elmar Nascimento,UNIÃO,Educação,10,3,30
+Roberto Monteiro Pai,PL,Educação,10,3,30
+Fabio Schiochet,UNIÃO,Educação,10,3,30
+Misael Varella,PSD,Economia,10,3,30
+Gabriel Mota,UNIÃO,Educação,10,3,30
+Valmir Assunção,PT,Economia,10,3,30
+Luizianne Lins,REDE,Educação,10,3,30
+Rafael Simoes,UNIÃO,Economia,10,3,30
+Joaquim Passarinho,PL,Educação,10,3,30
+Amanda Gentil,PP,Educação,10,3,30
+Alexandre Leite,UNIÃO,Educação,10,3,30
+Helder Salomão,PT,Meio Ambiente,10,3,30
+Bebeto,PP,Meio Ambiente,10,3,30
+Professora Luciene Cavalcante,PSOL,Meio Ambiente,10,3,30
+Márcio Jerry,PCdoB,Educação,10,3,30
+Marx Beltrão,PP,Meio Ambiente,10,3,30
+Ana Paula Leão,PP,Economia,10,3,30
+Delegado Palumbo,PODE,Educação,10,3,30
+Dimas Fabiano,PP,Economia,10,3,30
+Samuel Viana,UNIÃO,Educação,10,3,30
+Mauricio Marcon,PL,Educação,10,3,30
+Leandre,PSD,Educação,10,3,30
+Pastor Gil,PL,Economia,10,3,30
+Rodrigo Rollemberg,PSB,Educação,10,3,30
+Max Lemos,PDT,Meio Ambiente,10,3,30
+Delegada Katarina,PSD,Meio Ambiente,10,3,30
+Raimundo Costa,PSD,Educação,10,3,30
+André Janones,REDE,Educação,10,3,30
+Albuquerque,REPUBLICANOS,Economia,10,3,30
+Alfredinho,PT,Economia,10,3,30
+Neto Carletto,AVANTE,Educação,10,3,30
+Kiko Celeguim,PT,Meio Ambiente,10,3,30
+Mario Frias,PL,Economia,10,3,30
+Zé Vitor,PL,Educação,10,3,30
+Vermelho,PP,Economia,10,3,30
+Paulão,PT,Economia,10,3,30
+Daniela do Waguinho,REPUBLICANOS,Educação,10,3,30
+Luiz Gastão,PSD,Meio Ambiente,10,3,30
+Valmir Assunção,PT,Meio Ambiente,10,3,30
+Amom Mandel,REPUBLICANOS,Economia,10,3,30
+Duda Ramos,PODE,Educação,10,3,30
+Eros Biondini,PL,Meio Ambiente,10,3,30
+Marcos Tavares,PDT,Meio Ambiente,10,3,30
+Sidney Leite,PSD,Meio Ambiente,10,3,30
+Jilmar Tatto,PT,Meio Ambiente,10,3,30
+Zé Silva,UNIÃO,Meio Ambiente,10,3,30
+Jack Rocha,PT,Economia,10,3,30
+Dimas Gadelha,PT,Economia,10,3,30
+Marangoni,UNIÃO,Educação,10,3,30
+Fabio Reis,PSD,Economia,10,3,30
+João Cury,MDB,Educação,10,3,30
+Duda Salabert,PSOL,Economia,10,3,30
+Hugo Motta,REPUBLICANOS,Meio Ambiente,10,3,30
+Dani Cunha,PL,Meio Ambiente,10,3,30
+Missionário José Olimpio,PL,Meio Ambiente,10,3,30
+Pastor Diniz,UNIÃO,Educação,10,3,30
+Diego Coronel,REPUBLICANOS,Economia,10,3,30
+Pedro Campos,PSB,Economia,10,3,30
+Delegada Ione,AVANTE,Economia,10,3,30
+Lucas Redecker,PSD,Educação,10,3,30
+Flávio Nogueira,PT,Meio Ambiente,10,3,30
+Gustavo Gayer,PL,Educação,10,3,30
+Ricardo Ayres,REPUBLICANOS,Economia,10,3,30
+Coronel Assis,PL,Educação,10,3,30
+Lídice da Mata,PSB,Economia,10,3,30
+Robério Monteiro,PSB,Meio Ambiente,10,3,30
+Márcio Marinho,REPUBLICANOS,Educação,10,3,30
+Simone Marquetto,PP,Educação,10,3,30
+Arnaldo Jardim,CIDADANIA,Meio Ambiente,10,3,30
+Cobalchini,MDB,Economia,10,3,30
+Delegado da Cunha,PP,Meio Ambiente,10,3,30
+Luciano Bivar,MDB,Meio Ambiente,10,3,30
+Vermelho,PP,Educação,10,3,30
+Joaquim Passarinho,PL,Economia,10,3,30
+Sanderson,PL,Educação,10,3,30
+Coronel Meira,PL,Economia,10,3,30
+Alex Manente,CIDADANIA,Educação,10,3,30
+Dandara,PT,Educação,10,3,30
+Aline Gurgel,UNIÃO,Educação,10,3,30
+Coronel Chrisóstomo,PL,Meio Ambiente,10,3,30
+Daniela Reinehr,PL,Educação,10,3,30
+Delegado Bruno Lima,PODE,Meio Ambiente,10,3,30
+José Nelto,UNIÃO,Educação,10,3,30
+Jorge Goetten,REPUBLICANOS,Economia,10,3,30
+Samuel Viana,UNIÃO,Meio Ambiente,10,3,30
+José Priante,MDB,Economia,10,3,30
+Sargento Portugal,PODE,Meio Ambiente,10,3,30
+Antonio Carlos Rodrigues,PL,Meio Ambiente,10,3,30
+Paulo Litro,UNIÃO,Meio Ambiente,10,3,30
+Eduardo Velloso,SOLIDARIEDADE,Economia,10,3,30
+Dr Flávio,PL,Meio Ambiente,10,3,30
+Átila Lira,PP,Meio Ambiente,10,3,30
+Padre João,PT,Educação,10,3,30
+Clodoaldo Magalhães,PV,Meio Ambiente,10,3,30
+Dr. Jaziel,PL,Economia,10,3,30
+Maria Rosas,REPUBLICANOS,Meio Ambiente,10,3,30
+Daniela Reinehr,PL,Economia,10,3,30
+Celso Sabino,PDT,Economia,10,3,30
+Beto Pereira,REPUBLICANOS,Meio Ambiente,10,3,30
+Delegado Fabio Costa,PP,Economia,10,3,30
+Soraya Santos,PL,Meio Ambiente,10,3,30
+Defensor Stélio Dener,UNIÃO,Educação,10,3,30
+André Ferreira,PL,Meio Ambiente,10,3,30
+Merlong Solano,PT,Economia,10,3,30
+Rogério Correia,PT,Educação,10,3,30
+Adriano do Baldy,PP,Meio Ambiente,10,3,30
+Aureo Ribeiro,SOLIDARIEDADE,Economia,10,3,30
+Arthur Oliveira Maia,UNIÃO,Economia,10,3,30
+Celso Sabino,PDT,Educação,10,3,30
+José Airton Félix Cirilo,PT,Educação,10,3,30
+Juarez Costa,REPUBLICANOS,Economia,10,3,30
+Paulo Pimenta,PT,Economia,10,3,30
+Merlong Solano,PT,Meio Ambiente,10,3,30
+Florentino Neto,PT,Economia,10,3,30
+Rogéria Santos,REPUBLICANOS,Economia,10,3,30
+Luiz Nishimori,PSD,Educação,10,3,30
+Cristiane Lopes,PODE,Economia,10,3,30
+Mendonça Filho,PL,Educação,10,3,30
+Jilmar Tatto,PT,Educação,10,3,30
+Stefano Aguiar,PSD,Economia,10,3,30
+Talíria Petrone,PSOL,Educação,10,3,30
+Rafael Simoes,UNIÃO,Meio Ambiente,10,3,30
+Romero Rodrigues,PODE,Economia,10,3,30
+Tiago Dimas,PODE,Meio Ambiente,10,3,30
+Tarcísio Motta,PSOL,Meio Ambiente,10,3,30
+Laura Carneiro,PSD,Economia,10,2,20
+Eros Biondini,PL,Educação,10,2,20
+Pastor Henrique Vieira,PSOL,Educação,10,2,20
+Delegado Matheus Laiola,UNIÃO,Educação,10,2,20
+Gilvan da Federal,PL,Educação,10,2,20
+Ricardo Salles,NOVO,Meio Ambiente,10,2,20
+Adail Filho,MDB,Economia,10,2,20
+Padovani,PP,Educação,10,2,20
+Dr. Luiz Ovando,PP,Meio Ambiente,10,2,20
+Delegada Adriana Accorsi,PT,Educação,10,2,20
+Eduardo da Fonte,PP,Educação,10,2,20
+Lula da Fonte,PP,Educação,10,2,20
+Maria Rosas,REPUBLICANOS,Economia,10,2,20
+Vinicius Carvalho,PL,Educação,10,2,20
+Antonio Carlos Rodrigues,PL,Economia,10,2,20
+Fernando Mineiro,PT,Educação,10,2,20
+Zé Neto,PT,Economia,10,2,20
+Acácio Favacho,MDB,Meio Ambiente,10,2,20
+Dr. Luiz Ovando,PP,Economia,10,2,20
+Marcel van Hattem,NOVO,Meio Ambiente,10,2,20
+Sergio Souza,MDB,Meio Ambiente,10,2,20
+Capitão Augusto,PL,Meio Ambiente,10,2,20
+Carlos Zarattini,PT,Economia,10,2,20
+Any Ortiz,CIDADANIA,Educação,10,2,20
+Wellington Roberto,PSD,Meio Ambiente,10,2,20
+Reginaldo Lopes,PT,Educação,10,2,20
+Júnior Ferrari,PSD,Educação,10,2,20
+Vander Loubet,PT,Economia,10,2,20
+Dagoberto Nogueira,PP,Educação,10,2,20
+Lucio Mosquini,PL,Educação,10,2,20
+Júnior Mano,PSB,Educação,10,2,20
+Celso Russomanno,REPUBLICANOS,Meio Ambiente,10,2,20
+Mário Heringer,PDT,Meio Ambiente,10,2,20
+Helio Lopes,PL,Educação,10,2,20
+Paulo Folletto,PSB,Educação,10,2,20
+Da Vitoria,PP,Educação,10,2,20
+Amom Mandel,REPUBLICANOS,Educação,10,2,20
+Paulinho da Força,SOLIDARIEDADE,Economia,10,2,20
+Pedro Uczai,PT,Economia,10,2,20
+Ricardo Abrão,PSDB,Meio Ambiente,10,2,20
+Silvio Costa Filho,REPUBLICANOS,Meio Ambiente,10,2,20
+Castro Neto,MDB,Economia,10,2,20
+Weliton Prado,SOLIDARIEDADE,Meio Ambiente,10,2,20
+Aluisio Mendes,REPUBLICANOS,Meio Ambiente,10,2,20
+Luiz Philippe de Orleans e Bragança,PL,Educação,10,2,20
+Pr. Marco Feliciano,PL,Meio Ambiente,10,2,20
+Benedita da Silva,PT,Educação,10,2,20
+Silvia Cristina,PP,Economia,10,2,20
+Defensor Stélio Dener,UNIÃO,Economia,10,2,20
+Roberta Roma,PL,Economia,10,2,20
+Dani Cunha,PL,Economia,10,2,20
+Antonio Andrade,REPUBLICANOS,Educação,10,2,20
+Emanuel Pinheiro Neto,PSD,Economia,10,2,20
+Osmar Terra,PL,Economia,10,2,20
+Daniel Almeida,PCdoB,Economia,10,2,20
+Delegado Paulo Bilynskyj,PL,Economia,10,2,20
+Daniela Reinehr,PL,Meio Ambiente,10,2,20
+Dr. Daniel Soranz,PSD,Meio Ambiente,10,2,20
+Delegado Fabio Costa,PP,Meio Ambiente,10,2,20
+Chris Tonietto,PL,Meio Ambiente,10,2,20
+Bibo Nunes,PL,Educação,10,2,20
+Augusto Coutinho,REPUBLICANOS,Meio Ambiente,10,2,20
+Dr. Zacharias Calil,UNIÃO,Meio Ambiente,10,2,20
+Antonio Brito,PSD,Educação,10,2,20
+Julio Arcoverde,PP,Economia,10,2,20
+Carlos Veras,PT,Educação,10,2,20
+Max Lemos,PDT,Educação,10,2,20
+Baleia Rossi,MDB,Economia,10,2,20
+Fábio Macedo,PODE,Educação,10,2,20
+Delegado Caveira,PL,Economia,10,2,20
+Marx Beltrão,PP,Educação,10,2,20
+Franciane Bayer,REPUBLICANOS,Meio Ambiente,10,2,20
+Leo Prates,PDT,Educação,10,2,20
+Luiz Philippe de Orleans e Bragança,PL,Economia,10,2,20
+Maria Arraes,PSB,Educação,10,2,20
+Luiza Erundina,PSOL,Educação,10,2,20
+Leonardo Monteiro,PT,Educação,10,2,20
+Paulo Magalhães,PSD,Educação,10,2,20
+Dorinaldo Malafaia,PDT,Economia,10,2,20
+Rafael Prudente,MDB,Meio Ambiente,10,2,20
+Meire Serafim,UNIÃO,Economia,10,2,20
+Aguinaldo Ribeiro,PP,Economia,10,2,20
+Benedita da Silva,PT,Economia,10,2,20
+Airton Faleiro,PT,Educação,10,2,20
+Welter,PT,Educação,10,2,20
+Tarcísio Motta,PSOL,Economia,10,2,20
+Zé Vitor,PL,Economia,10,2,20
+Pedro Lupion,REPUBLICANOS,Economia,10,2,20
+Paulo Azi,UNIÃO,Economia,10,2,20
+Pastor Sargento Isidório,AVANTE,Educação,10,2,20
+Delegado Caveira,PL,Meio Ambiente,10,2,20
+Daiana Santos,PCdoB,Educação,10,2,20
+Adriana Ventura,NOVO,Economia,10,2,20
+Marcos Soares,PSDB,Educação,10,2,20
+Lindbergh Farias,PT,Economia,10,2,20
+Andreia Siqueira,PSB,Economia,10,2,20
+Rodrigo de Castro,UNIÃO,Economia,10,2,20
+Capitão Alberto Neto,PL,Educação,10,2,20
+Heloísa Helena,REDE,Economia,10,2,20
+Ricardo Abrão,PSDB,Educação,10,2,20
+Henderson Pinto,UNIÃO,Meio Ambiente,10,2,20
+General Girão,PL,Educação,10,2,20
+Gleisi Hoffmann,PT,Economia,10,2,20
+Ricardo Salles,NOVO,Educação,10,2,20
+Fábio Macedo,PODE,Meio Ambiente,10,2,20
+Célia Xakriabá,PSOL,Economia,10,2,20
+Dr. Francisco,PT,Meio Ambiente,10,2,20
+Pedro Lucas Fernandes,UNIÃO,Meio Ambiente,10,2,20
+Alexandre Leite,UNIÃO,Meio Ambiente,10,2,20
+Sâmia Bomfim,PSOL,Educação,10,2,20
+Messias Donato,UNIÃO,Meio Ambiente,10,2,20
+Paulo Freire Costa,PL,Meio Ambiente,10,2,20
+Waldemar Oliveira,AVANTE,Economia,10,2,20
+Baleia Rossi,MDB,Educação,10,2,20
+Florentino Neto,PT,Educação,10,2,20
+Silvye Alves,UNIÃO,Economia,10,2,20
+Bia Kicis,PL,Economia,10,2,20
+Luiz Lima,NOVO,Meio Ambiente,10,2,20
+Waldenor Pereira,PT,Meio Ambiente,10,2,20
+Zé Trovão,PL,Economia,10,2,20
+José Airton Félix Cirilo,PT,Economia,10,2,20
+Kim Kataguiri,MISSÃO,Economia,10,2,20
+Joseildo Ramos,PT,Economia,10,2,20
+Claudio Cajado,PP,Meio Ambiente,10,2,20
+Antônio Doido,MDB,Meio Ambiente,10,2,20
+Isnaldo Bulhões Jr.,MDB,Meio Ambiente,10,2,20
+Amanda Gentil,PP,Meio Ambiente,10,2,20
+Professor Alcides,PSDB,Educação,10,2,20
+Idilvan Alencar,PSB,Meio Ambiente,10,2,20
+Ribamar Silva,PSD,Educação,10,2,20
+Bia Kicis,PL,Educação,10,2,20
+Bohn Gass,PT,Meio Ambiente,10,2,20
+Hildo Rocha,MDB,Educação,10,2,20
+Dra. Alessandra Haber,PODE,Economia,10,2,20
+Bacelar,PV,Meio Ambiente,10,2,20
+Heitor Schuch,PSD,Educação,10,2,20
+Luciano Ducci,PSB,Educação,10,2,20
+Florentino Neto,PT,Meio Ambiente,10,2,20
+Kiko Celeguim,PT,Educação,10,2,20
+Júnior Mano,PSB,Meio Ambiente,10,2,20
+Vitor Lippi,PSD,Economia,10,2,20
+Bruno Ganem,PODE,Economia,10,2,20
+Aguinaldo Ribeiro,PP,Educação,10,2,20
+Paulo Lemos,PT,Educação,10,2,20
+Capitão Alden,PL,Economia,10,2,20
+Coronel Ulysses,UNIÃO,Meio Ambiente,10,2,20
+Alceu Moreira,MDB,Educação,10,2,20
+Pedro Aihara,PP,Educação,10,2,20
+Dr. Luiz Ovando,PP,Educação,10,2,20
+Mauro Benevides Filho,UNIÃO,Educação,10,2,20
+Filipe Barros,PL,Meio Ambiente,10,2,20
+Domingos Sávio,PL,Economia,10,2,20
+Dr. Jaziel,PL,Educação,10,2,20
+Rogéria Santos,REPUBLICANOS,Meio Ambiente,10,2,20
+Robinson Faria,PP,Economia,10,2,20
+Nicoletti,PL,Economia,10,2,20
+Keniston Braga,MDB,Meio Ambiente,10,2,20
+Saulo Pedroso,PSD,Economia,10,2,20
+Josenildo,PDT,Meio Ambiente,10,2,20
+Marcio Alvino,PL,Economia,10,2,20
+Vicentinho Júnior,PSDB,Educação,10,2,20
+Juscelino Filho,PSDB,Educação,10,2,20
+Marcelo Queiroz,PSDB,Economia,10,2,20
+Rosângela Reis,PL,Economia,10,2,20
+Ricardo Salles,NOVO,Economia,10,2,20
+Luiz Lima,NOVO,Educação,10,2,20
+Rogério Correia,PT,Meio Ambiente,10,2,20
+Stefano Aguiar,PSD,Meio Ambiente,10,2,20
+Afonso Hamm,PP,Meio Ambiente,10,2,20
+Aliel Machado,PV,Meio Ambiente,10,2,20
+Lucas Ramos,PSB,Economia,10,2,20
+Lucas Redecker,PSD,Meio Ambiente,10,2,20
+Waldemar Oliveira,AVANTE,Educação,10,2,20
+André Abdon,PP,Meio Ambiente,10,2,20
+Helena Lima,PSD,Educação,10,2,20
+Marcelo Álvaro Antônio,PL,Educação,10,2,20
+Sidney Leite,PSD,Educação,10,2,20
+Lucas Ramos,PSB,Meio Ambiente,10,2,20
+João Carlos Bacelar,PL,Economia,10,2,20
+Gutemberg Reis,MDB,Educação,10,2,20
+Bibo Nunes,PL,Economia,10,2,20
+Marcos Pollon,PL,Educação,10,2,20
+Jadyel Alencar,REPUBLICANOS,Educação,10,2,20
+Caroline de Toni,PL,Educação,10,2,20
+Fabio Schiochet,UNIÃO,Economia,10,2,20
+Dr. Victor Linhalis,PODE,Meio Ambiente,10,2,20
+Roberto Monteiro Pai,PL,Economia,10,2,20
+Rui Falcão,PT,Meio Ambiente,10,2,20
+Hercílio Coelho Diniz,MDB,Educação,10,2,20
+Zé Trovão,PL,Meio Ambiente,10,2,20
+Rafael Fera,PODE,Economia,10,2,20
+Sanderson,PL,Economia,10,2,20
+Capitão Alberto Neto,PL,Economia,10,2,20
+Vitor Lippi,PSD,Meio Ambiente,10,2,20
+Socorro Neri,PP,Educação,10,2,20
+Beto Richa,PSDB,Meio Ambiente,10,2,20
+Luizianne Lins,REDE,Economia,10,2,20
+Leandre,PSD,Meio Ambiente,10,2,20
+Luiz Nishimori,PSD,Economia,10,2,20
+Antonio Brito,PSD,Economia,10,2,20
+Chico Alencar,PSOL,Educação,10,2,20
+Mario Frias,PL,Educação,10,2,20
+Dr Flávio,PL,Economia,10,2,20
+Julia Zanatta,PL,Economia,10,2,20
+Vinicius Carvalho,PL,Meio Ambiente,10,2,20
+Luciano Vieira,PSDB,Meio Ambiente,10,2,20
+Ana Paula Leão,PP,Educação,10,2,20
+Capitão Alberto Neto,PL,Meio Ambiente,10,2,20
+Dani Cunha,PL,Educação,10,2,20
+Dagoberto Nogueira,PP,Economia,10,2,20
+Zé Silva,UNIÃO,Educação,10,2,20
+Claudio Cajado,PP,Economia,10,2,20
+Renata Abreu,PODE,Educação,10,2,20
+Charles Fernandes,PSD,Economia,10,2,20
+João Cury,MDB,Economia,10,2,20
+Luiz Carlos Motta,PL,Educação,10,2,20
+Magda Mofatto,PL,Educação,10,2,20
+Junior Lourenço,MDB,Economia,10,2,20
+Adilson Barroso,PL,Educação,10,2,20
+Juninho do Pneu,PSDB,Meio Ambiente,10,2,20
+Sargento Gonçalves,PL,Educação,10,2,20
+Luiz Gastão,PSD,Educação,10,2,20
+Júnior Mano,PSB,Economia,10,2,20
+José Rocha,UNIÃO,Economia,10,2,20
+Rafael Fera,PODE,Educação,10,2,20
+Murilo Galdino,REPUBLICANOS,Educação,10,2,20
+Toninho Wandscheer,PP,Meio Ambiente,10,2,20
+Ismael,PL,Meio Ambiente,10,2,20
+Gustinho Ribeiro,PP,Meio Ambiente,10,2,20
+Saullo Vianna,MDB,Educação,10,2,20
+Daniel Agrobom,PL,Educação,10,2,20
+Pastor Eurico,PSDB,Educação,10,2,20
+Eunício Oliveira,MDB,Economia,10,2,20
+Pedro Paulo,PSD,Economia,10,2,20
+Helio Lopes,PL,Economia,10,2,20
+Beto Pereira,REPUBLICANOS,Educação,10,2,20
+Rubens Otoni,PT,Economia,10,2,20
+Paulo Folletto,PSB,Meio Ambiente,10,2,20
+Gustinho Ribeiro,PP,Economia,10,2,20
+Diego Andrade,PSD,Meio Ambiente,10,2,20
+Ricardo Ayres,REPUBLICANOS,Educação,10,2,20
+Simone Marquetto,PP,Economia,10,2,20
+Maria do Rosário,PT,Educação,10,2,20
+Doutor Luizinho,PP,Economia,10,2,20
+Marcon,PT,Meio Ambiente,10,2,20
+Lincoln Portela,PL,Educação,10,2,20
+Afonso Hamm,PP,Educação,10,2,20
+Celso Russomanno,REPUBLICANOS,Economia,10,2,20
+Castro Neto,MDB,Educação,10,2,20
+Erika Kokay,PT,Meio Ambiente,10,2,20
+Luiz Carlos Busato,UNIÃO,Meio Ambiente,10,2,20
+Lula da Fonte,PP,Economia,10,2,20
+João Maia,PP,Educação,10,2,20
+Carlos Zarattini,PT,Meio Ambiente,10,2,20
+Heloísa Helena,REDE,Meio Ambiente,10,2,20
+Evair Vieira de Melo,PP,Economia,10,2,20
+Carlos Jordy,PL,Meio Ambiente,10,2,20
+Gilson Daniel,PODE,Meio Ambiente,10,2,20
+Silvia Cristina,PP,Meio Ambiente,10,2,20
+Aécio Neves,PSDB,Economia,10,2,20
+Jonas Donizette,PSB,Educação,10,2,20
+Danrlei de Deus Hinterholz,PSD,Educação,10,2,20
+Marcelo Moraes,PL,Educação,10,2,20
+Gilson Marques,NOVO,Economia,10,2,20
+Geovania de Sá,PSDB,Economia,10,2,20
+Félix Mendonça Júnior,PDT,Economia,10,2,20
+André Ferreira,PL,Educação,10,2,20
+Junio Amaral,PL,Economia,10,2,20
+Danrlei de Deus Hinterholz,PSD,Meio Ambiente,10,2,20
+Geraldo Mendes,UNIÃO,Educação,10,2,20
+Fabio Reis,PSD,Meio Ambiente,10,2,20
+Paulo Abi-Ackel,PSDB,Economia,10,2,20
+Adolfo Viana,PSDB,Meio Ambiente,10,2,20
+Julio Arcoverde,PP,Meio Ambiente,10,2,20
+Leonardo Monteiro,PT,Meio Ambiente,10,2,20
+Caroline de Toni,PL,Meio Ambiente,10,2,20
+Denise Pessôa,PT,Educação,10,1,10
+Luiz Nishimori,PSD,Meio Ambiente,10,1,10
+Cleber Verde,MDB,Economia,10,1,10
+Julio Cesar Ribeiro,REPUBLICANOS,Meio Ambiente,10,1,10
+Hildo Rocha,MDB,Meio Ambiente,10,1,10
+Dr. Ismael Alexandrino,PSD,Meio Ambiente,10,1,10
+Paulo Magalhães,PSD,Meio Ambiente,10,1,10
+Geraldo Resende,PSDB,Educação,10,1,10
+Aureo Ribeiro,SOLIDARIEDADE,Educação,10,1,10
+Gutemberg Reis,MDB,Meio Ambiente,10,1,10
+Paulão,PT,Educação,10,1,10
+Adriano do Baldy,PP,Educação,10,1,10
+Pedro Paulo,PSD,Educação,10,1,10
+Soraya Santos,PL,Educação,10,1,10
+Eduardo Bismarck,PV,Educação,10,1,10
+Juarez Costa,REPUBLICANOS,Educação,10,1,10
+Weliton Prado,SOLIDARIEDADE,Economia,10,1,10
+Murillo Gouvea,PSDB,Economia,10,1,10
+Paulo Guedes,PT,Meio Ambiente,10,1,10
+Márcio Honaiser,SOLIDARIEDADE,Meio Ambiente,10,1,10
+Júnior Ferrari,PSD,Economia,10,1,10
+Dr. Francisco,PT,Educação,10,1,10
+Clarissa Tércio,PP,Meio Ambiente,10,1,10
+Adriana Ventura,NOVO,Meio Ambiente,10,1,10
+Zé Neto,PT,Meio Ambiente,10,1,10
+Albuquerque,REPUBLICANOS,Educação,10,1,10
+Henderson Pinto,UNIÃO,Educação,10,1,10
+Dorinaldo Malafaia,PDT,Meio Ambiente,10,1,10
+João Daniel,PT,Economia,10,1,10
+Ricardo Abrão,PSDB,Economia,10,1,10
+Carlos Veras,PT,Meio Ambiente,10,1,10
+Fausto Pinato,PP,Educação,10,1,10
+Welter,PT,Meio Ambiente,10,1,10
+Andreia Siqueira,PSB,Educação,10,1,10
+Marcos Tavares,PDT,Economia,10,1,10
+Afonso Motta,PDT,Economia,10,1,10
+Delegada Ione,AVANTE,Meio Ambiente,10,1,10
+Milton Vieira,REPUBLICANOS,Educação,10,1,10
+Any Ortiz,CIDADANIA,Economia,10,1,10
+Benes Leocádio,UNIÃO,Educação,10,1,10
+Acácio Favacho,MDB,Educação,10,1,10
+Alice Portugal,PCdoB,Educação,10,1,10
+Zé Silva,UNIÃO,Economia,10,1,10
+Adriano do Baldy,PP,Economia,10,1,10
+Afonso Motta,PDT,Meio Ambiente,10,1,10
+Junio Amaral,PL,Meio Ambiente,10,1,10
+Marcelo Queiroz,PSDB,Educação,10,1,10
+Alexandre Lindenmeyer,PT,Educação,10,1,10
+Marcos Tavares,PDT,Educação,10,1,10
+Paulo Alexandre Barbosa,PSDB,Economia,10,1,10
+Geovania de Sá,PSDB,Educação,10,1,10
+Aline Gurgel,UNIÃO,Meio Ambiente,10,1,10
+Damião Feliciano,UNIÃO,Educação,10,1,10
+Geraldo Mendes,UNIÃO,Meio Ambiente,10,1,10
+Zé Haroldo Cathedral,UNIÃO,Economia,10,1,10
+Mauricio Neves,PP,Economia,10,1,10
+Felipe Carreras,PSB,Educação,10,1,10
+Duda Salabert,PSOL,Meio Ambiente,10,1,10
+Rafael Simoes,UNIÃO,Educação,10,1,10
+Zezinho Barbary,PP,Economia,10,1,10
+Gilberto Nascimento,PSD,Educação,10,1,10
+Flávia Morais,PDT,Educação,10,1,10
+Ricardo Barros,PP,Economia,10,1,10
+Dilvanda Faro,PT,Educação,10,1,10
+Giovani Cherini,PL,Meio Ambiente,10,1,10
+Mauricio Neves,PP,Educação,10,1,10
+Marcel van Hattem,NOVO,Economia,10,1,10
+Wilson Santiago,REPUBLICANOS,Educação,10,1,10
+Orlando Silva,PCdoB,Educação,10,1,10
+Sâmia Bomfim,PSOL,Meio Ambiente,10,1,10
+Leur Lomanto Júnior,UNIÃO,Educação,10,1,10
+Thiago de Joaldo,REPUBLICANOS,Economia,10,1,10
+Filipe Martins,PL,Economia,10,1,10
+Carlos Jordy,PL,Educação,10,1,10
+Paulo Pimenta,PT,Meio Ambiente,10,1,10
+Carlos Henrique Gaguim,UNIÃO,Educação,10,1,10
+Professora Luciene Cavalcante,PSOL,Educação,10,1,10
+Fred Costa,PRD,Meio Ambiente,10,1,10
+Tiago Dimas,PODE,Economia,10,1,10
+Alfredo Gaspar,UNIÃO,Meio Ambiente,10,1,10
+Professora Marcivania,PCdoB,Economia,10,1,10
+Samuel Viana,UNIÃO,Economia,10,1,10
+Padre João,PT,Meio Ambiente,10,1,10
+Isnaldo Bulhões Jr.,MDB,Educação,10,1,10
+Olival Marques,PODE,Meio Ambiente,10,1,10
+Wilson Santiago,REPUBLICANOS,Economia,10,1,10
+Fernanda Pessoa,PSD,Educação,10,1,10
+Helena Lima,PSD,Economia,10,1,10
+Adilson Barroso,PL,Meio Ambiente,10,1,10
+João Carlos Bacelar,PL,Meio Ambiente,10,1,10
+Arnaldo Jardim,CIDADANIA,Educação,10,1,10
+Luciano Vieira,PSDB,Economia,10,1,10
+Daniel Barbosa,PP,Educação,10,1,10
+Renildo Calheiros,PCdoB,Economia,10,1,10
+Paulo Pimenta,PT,Educação,10,1,10
+Messias Donato,UNIÃO,Educação,10,1,10
+Bandeira de Mello,PV,Meio Ambiente,10,1,10
+Renilce Nicodemos,MDB,Meio Ambiente,10,1,10

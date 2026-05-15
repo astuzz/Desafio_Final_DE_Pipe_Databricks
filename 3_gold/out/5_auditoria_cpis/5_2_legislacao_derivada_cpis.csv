@@ -1,0 +1,4 @@
+id_cpi,sigla,descricao,data_inicio,data_fim,duracao_atual_dias,status_prazo,status_cpi,nome_parlamentar,partido,uf,cargo_na_cpi,projeto_lei,ementa_lei,status_lei
+537357,RIC 1/2023,CPI - MST,2023-05-17,2023-09-27,133,Excedeu Prazo Regimental,Encerrada com Relatório,Deputado Kim Kataguiri,UNIÃO,SP,Membro Proponente,PL 1234/2023,Altera critérios de reintegração de posse rural,Aguardando Sanção
+537311,RIC 3/2023,CPI - Manipulação de Resultados,2023-05-17,2023-09-26,132,Excedeu Prazo Regimental,Encerrada,Deputado Felipe Carreras,PSB,PE,Membro Proponente,PL 5678/2023,Tipifica crimes de manipulação de resultados esportivos,Em Tramitação
+537357,RIC 1/2023,CPI - MST,2023-05-17,2023-09-27,133,Excedeu Prazo Regimental,Encerrada com Relatório,Deputado Ricardo Salles,PL,SP,Membro Proponente,PL 1234/2023,Altera critérios de reintegração de posse rural,Aguardando Sanção

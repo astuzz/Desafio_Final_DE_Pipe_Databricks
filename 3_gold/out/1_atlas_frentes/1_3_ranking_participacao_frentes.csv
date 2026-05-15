@@ -1,0 +1,493 @@
+id_deputado,nome_deputado,uf,total_frentes
+220648,Marangoni,SP,92
+98057,Lafayette de Andrada,MG,91
+141555,Vinicius Carvalho,SP,87
+178993,Carlos Henrique Gaguim,TO,87
+73579,Alberto Fraga,DF,85
+74084,Raimundo Santos,PA,79
+160598,Flávia Morais,GO,78
+150418,Márcio Marinho,BA,78
+74856,Laura Carneiro,RJ,77
+220656,Fernanda Pessoa,CE,76
+153423,Renilce Nicodemos,PA,76
+220618,Sargento Portugal,RJ,75
+178947,Sóstenes Cavalcante,RJ,75
+74253,Julio Lopes,RJ,75
+220533,Prof. Reginaldo Veras,DF,74
+220563,Icaro de Valmir,SE,74
+178997,Moses Rodrigues,CE,74
+220566,Lêda Borges,GO,74
+161440,Pezenti,SC,73
+69871,Bacelar,BA,72
+178857,Jorge Solla,BA,71
+220529,Gilson Daniel,ES,71
+160517,Paulo Folletto,ES,70
+220574,Cabo Gilberto Silva,PB,70
+73486,Pompeo de Mattos,RS,70
+220588,Roberto Duarte,AC,70
+74044,Wilson Santiago,PB,69
+141408,Cleber Verde,MA,69
+220610,Dr. Fernando Máximo,RO,69
+220534,Fred Linhares,DF,68
+220691,Diego Coronel,BA,68
+121948,Adriano do Baldy,GO,68
+178934,Toninho Wandscheer,PR,67
+204491,Gilberto Abramo,MG,67
+220625,Delegada Ione,MG,67
+136811,Afonso Hamm,RS,67
+178954,Lucio Mosquini,RO,67
+220543,Ricardo Ayres,TO,67
+178992,Vitor Lippi,SP,67
+220591,Meire Serafim,AC,66
+220672,Henderson Pinto,PA,66
+220558,Zé Trovão,SC,66
+220592,Zezinho Barbary,AC,66
+178873,Helder Salomão,ES,65
+220697,Jadyel Alencar,PI,65
+204360,Silvia Cristina,RO,65
+220646,Felipe Becari,SP,64
+220630,Pedro Aihara,MG,64
+74156,Leonardo Monteiro,MG,64
+62881,Danilo Forte,CE,64
+74060,Daniel Almeida,BA,64
+204412,Dr. Zacharias Calil,GO,63
+204410,Luisa Canziani,PR,63
+98148,Cobalchini,SC,63
+137070,Vicentinho Júnior,TO,63
+204572,Capitão Alberto Neto,AM,62
+220608,Cristiane Lopes,RO,62
+204501,Alencar Santana,SP,62
+178896,Newton Cardoso Jr,MG,61
+204560,Adolfo Viana,BA,61
+220612,Bebeto,RJ,61
+220540,Duda Ramos,RR,61
+204426,Carlos Veras,PE,61
+220573,Dorinaldo Malafaia,AP,61
+220611,General Pazuello,RJ,60
+220605,Bandeira de Mello,RJ,60
+74398,Maria do Rosário,RS,60
+220676,Andreia Siqueira,PA,60
+220682,Tadeu Veneri,PR,59
+220538,Albuquerque,RR,59
+133439,André Figueiredo,CE,59
+220687,Márcio Honaiser,MA,59
+220662,Lucas Ramos,PE,59
+204567,Raimundo Costa,BA,58
+220571,Daniel Agrobom,GO,58
+204536,Kim Kataguiri,SP,58
+73441,Celso Russomanno,SP,58
+123756,Antônia Lúcia,AC,58
+66828,Fausto Pinato,SP,58
+204550,Júnior Mano,CE,58
+139285,Lídice da Mata,BA,57
+204480,Rogério Correia,MG,57
+178989,Renata Abreu,SP,57
+204495,Airton Faleiro,PA,57
+104552,Socorro Neri,AC,57
+220702,Geraldo Mendes,PR,57
+160629,Romero Rodrigues,PB,56
+160758,Domingos Sávio,MG,56
+188097,Merlong Solano,PI,56
+160575,Erika Kokay,DF,56
+220553,Denise Pessôa,RS,56
+160604,Pedro Uczai,SC,56
+74160,Patrus Ananias,MG,56
+220539,Defensor Stélio Dener,RR,56
+220542,Alexandre Guimarães,TO,56
+220564,Yandra Moura,SE,56
+224333,Welter,PR,55
+220554,Alexandre Lindenmeyer,RS,55
+220595,Coronel Fernanda,MT,55
+220704,Carol Dartora,PR,55
+204455,Luiz Lima,RJ,55
+122974,Pedro Lucas Fernandes,MA,55
+178931,Luciano Ducci,PR,55
+74376,Vander Loubet,MS,55
+204388,Bibo Nunes,RS,55
+178887,Rubens Pereira Júnior,MA,55
+74057,Alice Portugal,BA,54
+204479,Nicoletti,RR,54
+178843,Marx Beltrão,AL,54
+80815,Leo Prates,BA,54
+204406,Pedro Westphalen,RS,53
+204559,Zé Neto,BA,53
+178929,Diego Garcia,PR,52
+204472,José Medeiros,MT,52
+204504,Cezinha de Madureira,SP,52
+210989,Bruno Farias,MG,52
+160666,Félix Mendonça Júnior,BA,52
+157130,Túlio Gadêlha,PE,52
+204404,Lucas Redecker,RS,51
+204528,Adriana Ventura,SP,51
+74374,Geraldo Resende,MS,51
+74041,Luiz Couto,PB,51
+221148,Alfredinho,SP,51
+74858,Lindbergh Farias,RJ,51
+204473,General Girão,RN,51
+141487,Luiz Fernando Faria,MG,51
+220683,Beto Richa,PR,50
+178986,Nilto Tatto,SP,50
+220686,Duarte Jr.,MA,50
+220589,Eduardo Velloso,AC,50
+220599,Marcelo Crivella,RJ,50
+178871,Evair Vieira de Melo,ES,50
+165470,Rodrigo Valadares,SE,50
+204423,André Ferreira,PE,50
+220549,Any Ortiz,RS,50
+220548,Camila Jara,MS,49
+160553,Antonio Brito,BA,49
+160600,Arthur Oliveira Maia,BA,49
+220607,Max Lemos,RJ,49
+220617,Murillo Gouvea,RJ,49
+204517,Zé Vitor,MG,49
+220695,Rogéria Santos,BA,49
+204512,Delegado Marcelo Freitas,MG,49
+220663,Eriberto Medeiros,PE,49
+220598,Tarcísio Motta,RJ,49
+160665,Augusto Coutinho,PE,48
+198783,Emanuel Pinheiro Neto,MT,48
+220602,Dimas Gadelha,RJ,48
+160556,Padre João,MG,48
+204351,Dr. Luiz Ovando,MS,48
+180214,Pastor Diniz,RR,48
+74554,José Rocha,BA,47
+220590,Coronel Ulysses,AC,47
+162067,Kiko Celeguim,SP,47
+160642,Pastor Eurico,PE,47
+220632,Ana Pimentel,MG,47
+204416,Sanderson,RS,47
+178970,João Daniel,SE,46
+204497,Júnior Ferrari,PA,46
+220700,Florentino Neto,PI,46
+220616,Luciano Vieira,RJ,46
+204378,Coronel Chrisóstomo,RO,46
+220528,Dr. Victor Linhalis,ES,45
+204379,Acácio Favacho,AP,45
+220568,Gustavo Gayer,GO,45
+141398,Carlos Zarattini,SP,45
+209189,Joseildo Ramos,BA,45
+220613,Roberto Monteiro Pai,RJ,45
+160640,Eros Biondini,MG,45
+220606,Reimont,RJ,45
+220668,Maria Arraes,PE,44
+220552,Zucco,RS,44
+179000,Marcelo Álvaro Antônio,MG,44
+160569,Waldenor Pereira,BA,44
+74159,Odair Cunha,MG,44
+160512,Aureo Ribeiro,RJ,43
+220569,Silvye Alves,GO,43
+160610,Valmir Assunção,BA,43
+204361,Carlos Chiodini,SC,43
+220604,Marcos Tavares,RJ,43
+74270,Gilberto Nascimento,SP,43
+74383,Giacobo,PR,43
+214694,Jorge Goetten,SC,43
+204374,Bia Kicis,DF,43
+220707,Amanda Gentil,MA,43
+162332,Luiz Nishimori,PR,43
+204355,Da Vitoria,ES,43
+204427,Fernando Rodolfo,PE,42
+220706,Padovani,PR,42
+160535,Marcon,RS,42
+220713,Saullo Vianna,AM,42
+73692,Osmar Terra,RS,42
+220638,Antonio Carlos Rodrigues,SP,42
+220556,Ana Paula Lima,SC,42
+81055,Márcio Jerry,MA,42
+204441,Otoni de Paula,RJ,42
+178987,Orlando Silva,SP,42
+220647,Mauricio Neves,SP,41
+220703,Neto Carletto,BA,41
+220666,Coronel Meira,PE,41
+161550,Emidinho Madeira,MG,41
+191923,Flávio Nogueira,PI,41
+220545,Filipe Martins,TO,41
+204488,Célio Studart,CE,41
+221328,Adilson Barroso,SP,41
+204486,Mauro Benevides Filho,CE,41
+74585,Lincoln Portela,MG,41
+220537,Helena Lima,RR,40
+220572,Marussa Boldrin,GO,40
+160673,Giovani Cherini,RS,40
+220641,Rodrigo Gambale,SP,40
+220715,Amom Mandel,AM,40
+220594,Coronel Assis,MT,40
+220621,Sargento Gonçalves,RN,40
+178964,Heitor Schuch,RS,40
+160538,Bohn Gass,RS,40
+204398,Felipe Francischini,PR,40
+220550,Mauricio Marcon,RS,39
+220650,Paulo Alexandre Barbosa,SP,39
+204456,Gutemberg Reis,RJ,39
+220654,Delegado Paulo Bilynskyj,SP,39
+178908,Delegado Éder Mauro,PA,39
+204407,Fernanda Melchionna,RS,39
+178910,Joaquim Passarinho,PA,39
+221338,Professora Luciene Cavalcante,SP,39
+160161,Marcelo Queiroz,RJ,39
+204367,Daniel Freitas,SC,39
+204535,Sâmia Bomfim,SP,39
+98615,Ismael,SC,39
+160635,Ruy Carneiro,PB,38
+204390,Professor Alcides,GO,38
+73701,Benedita da Silva,RJ,38
+220688,Dr. Francisco,PI,38
+204525,Rosana Valle,SP,38
+74171,Chico Alencar,RJ,38
+160632,Zé Silva,MG,38
+72442,Felipe Carreras,PE,38
+178876,Célio Silveira,GO,38
+178881,Aluisio Mendes,MA,38
+141458,João Carlos Bacelar,BA,38
+160592,Zeca Dirceu,PR,38
+204396,Vermelho,PR,37
+141464,José Airton Félix Cirilo,CE,37
+141531,Rodrigo de Castro,MG,37
+141485,Luiz Carlos Busato,RS,37
+73801,Renildo Calheiros,PE,37
+204511,David Soares,SP,37
+220649,Delegado da Cunha,SP,37
+220530,Messias Donato,ES,37
+220690,Capitão Alden,BA,37
+74043,Wellington Roberto,PB,37
+74784,Luiza Erundina,SP,37
+74537,Claudio Cajado,BA,37
+220547,Marcos Pollon,MS,37
+204526,Luiz Philippe de Orleans e Bragança,SP,37
+220536,Zé Haroldo Cathedral,RR,37
+204387,Sargento Fahur,PR,37
+204444,Helio Lopes,RJ,36
+74371,Rubens Otoni,GO,36
+171617,Paulão,AL,36
+204534,Tabata Amaral,SP,36
+220712,Fausto Jr.,AM,36
+204457,Juninho do Pneu,RJ,36
+156190,Marcel van Hattem,RS,36
+88256,Clodoaldo Magalhães,PE,35
+74848,Jandira Feghali,RJ,35
+205476,Charles Fernandes,BA,34
+160559,Alceu Moreira,RS,34
+204356,Amaro Neto,ES,34
+220615,Pastor Henrique Vieira,RJ,34
+204453,Natália Bonavides,RN,34
+220635,Bruno Ganem,SP,34
+204520,Junio Amaral,MG,34
+178985,Miguel Lombardi,SP,34
+204494,Fred Costa,MG,34
+220629,Dandara,MG,33
+204518,Dr. Frederico,MG,33
+220692,Dal Barreto,BA,33
+204464,Talíria Petrone,RJ,33
+109429,Benes Leocádio,RN,33
+220560,Thiago de Joaldo,SE,33
+220578,Josenildo,AP,33
+204492,Paulo Guedes,MG,33
+160976,Tiririca,SP,33
+74158,Mário Heringer,MG,33
+171786,Miguel Ângelo,MG,33
+178835,Afonso Motta,RS,33
+74317,Júlio Cesar,PI,33
+220673,Delegado Caveira,PA,33
+220633,Ricardo Salles,SP,32
+220555,Daiana Santos,RS,32
+160601,Pr. Marco Feliciano,SP,32
+143632,Domingos Neto,CE,32
+74273,Jefferson Campos,SP,32
+73778,Luiz Carlos Hauly,PR,32
+141450,Hugo Leal,RJ,32
+215043,Josivaldo JP,MA,31
+160548,Jonas Donizette,SP,31
+220667,Pedro Campos,PE,31
+204557,Sidney Leite,AM,31
+160518,Weliton Prado,MG,31
+220644,Rosangela Moro,SP,31
+141456,Jilmar Tatto,SP,31
+220576,Alfredo Gaspar,AL,31
+220620,Rosângela Reis,MG,31
+220714,Adail Filho,AM,31
+220584,Murilo Galdino,PB,31
+220640,Juliana Cardoso,SP,31
+220684,Tião Medeiros,PR,30
+178866,Luizianne Lins,CE,30
+220694,Ricardo Maia,BA,30
+220565,Delegada Adriana Accorsi,GO,30
+206018,Célia Xakriabá,MG,30
+122158,Pedro Paulo,RJ,30
+220527,Jack Rocha,ES,30
+204524,Pinheirinho,MG,30
+220669,Lula da Fonte,PE,29
+220581,Luciano Amaral,AL,29
+220674,Dra. Alessandra Haber,PA,29
+92102,Leur Lomanto Júnior,BA,29
+204485,Luiz Carlos Motta,SP,29
+220628,Mauricio do Vôlei,MG,29
+73604,Rui Falcão,SP,29
+204533,Idilvan Alencar,CE,29
+220645,Erika Hilton,SP,29
+220696,Ivoneide Caetano,BA,29
+74161,Reginaldo Lopes,MG,29
+141411,Dagoberto Nogueira,MS,28
+74090,Átila Lins,AM,28
+224117,Gabriel Mota,RR,28
+204395,Pedro Lupion,PR,28
+220559,Julia Zanatta,SC,28
+107283,Gleisi Hoffmann,PR,27
+220661,Matheus Noronha,CE,27
+220693,Roberta Roma,BA,27
+204358,Beto Pereira,MS,27
+178829,Capitão Augusto,SP,27
+220551,Franciane Bayer,RS,26
+178895,Misael Varella,MG,26
+178858,Mário Negromonte Jr.,BA,26
+204553,Pastor Sargento Isidório,BA,26
+220557,Daniela Reinehr,SC,26
+220623,Duda Salabert,MG,26
+141391,Arnaldo Jardim,SP,26
+74428,Mendonça Filho,PE,26
+220655,Mario Frias,SP,26
+178946,Soraya Santos,RJ,26
+220626,Rafael Simoes,MG,26
+220658,Luiz Gastão,CE,26
+160588,Diego Andrade,MG,25
+107970,Ana Paula Leão,MG,25
+204365,Gilson Marques,SC,25
+204445,Fernando Mineiro,RN,25
+178937,Altineu Côrtes,RJ,25
+220532,Rafael Prudente,DF,25
+204372,Julio Cesar Ribeiro,DF,25
+220685,Paulo Litro,PR,24
+92776,Stefano Aguiar,MG,24
+204570,Pastor Gil,MA,24
+220652,Delegado Palumbo,SP,24
+220665,Clarissa Tércio,PE,24
+160558,Paulo Freire Costa,SP,24
+74467,Damião Feliciano,PB,24
+91228,Waldemar Oliveira,PE,24
+74075,Elcione Barbalho,PA,24
+220526,Gilvan da Federal,ES,24
+204574,Junior Lourenço,MA,23
+220570,Dr. Ismael Alexandrino,GO,23
+198197,Greyce Elias,MG,23
+204409,Daniel Trzeciak,RS,23
+220583,Delegado Fabio Costa,AL,23
+220624,Robinson Faria,RN,23
+220561,Delegada Katarina,SE,23
+204364,Eli Borges,TO,23
+178972,Alex Manente,SP,22
+204408,Gustinho Ribeiro,SE,22
+220597,Thiago Flores,RO,22
+204425,Silvio Costa Filho,PE,22
+166402,Magda Mofatto,GO,22
+220586,Rafael Brito,AL,22
+209787,Nikolas Ferreira,MG,21
+178966,Geovania de Sá,SC,21
+204462,Chris Tonietto,RJ,21
+178927,Aliel Machado,PR,21
+204394,Gervásio Maia,PB,21
+73433,Arlindo Chinaglia,SP,20
+204474,Juarez Costa,MT,20
+220609,Maurício Carvalho,RO,20
+141421,Eduardo da Fonte,PE,20
+204515,André Janones,MG,20
+204460,Carlos Jordy,RJ,20
+178962,Carlos Gomes,RS,19
+204540,Maria Rosas,SP,19
+220657,André Fernandes,CE,19
+204450,Doutor Luizinho,RJ,18
+220567,Jeferson Rodrigues,GO,18
+204459,Daniela do Waguinho,RJ,18
+204481,Dr. Jaziel,CE,18
+160674,Hugo Motta,PB,18
+73768,Dilceu Sperafico,PR,18
+220651,Simone Marquetto,SP,18
+220546,Rodolfo Nogueira,MS,18
+204541,Eduardo Bismarck,CE,18
+204539,Hercílio Coelho Diniz,MG,17
+220622,Nely Aquino,MG,17
+204369,Caroline de Toni,SC,17
+226837,Saulo Pedroso,SP,17
+220671,Dilvanda Faro,PA,17
+220670,Iza Arruda,PE,16
+204368,Fabio Schiochet,SC,16
+74574,Paulo Magalhães,BA,16
+220699,Castro Neto,PI,16
+204391,José Nelto,GO,16
+141431,Fernando Coelho Filho,PE,16
+220585,Mersinho Lucena,PB,16
+74079,José Priante,PA,16
+221329,Ricardo Abrão,RJ,15
+133810,Marcelo Moraes,RS,15
+204508,Igor Timo,MG,15
+220603,Dani Cunha,RJ,15
+74262,Carlos Sampaio,SP,14
+178884,Hildo Rocha,MA,14
+74454,Eunício Oliveira,CE,14
+123086,Átila Lira,PI,14
+204411,Filipe Barros,PR,14
+220701,Delegado Matheus Laiola,PR,13
+178860,Paulo Azi,BA,13
+220708,Gabriel Nunes,BA,13
+204436,Isnaldo Bulhões Jr.,AL,13
+160599,Dimas Fabiano,MG,13
+141459,João Maia,RN,13
+220642,Delegado Bruno Lima,SP,13
+204419,Glaustin da Fokus,GO,12
+141516,Paulo Abi-Ackel,MG,12
+160591,Vinicius Gurgel,AP,12
+175765,Ribamar Silva,SP,12
+220582,Daniel Barbosa,AL,12
+213762,Carla Dickson,RN,12
+178933,Sergio Souza,PR,12
+220631,Samuel Viana,MG,12
+160527,Aguinaldo Ribeiro,PB,11
+204506,Marcos Pereira,SP,11
+178983,Marcio Alvino,SP,11
+160545,Alexandre Leite,SP,11
+205550,Jorge Braz,RJ,11
+230765,Enfermeira Rejane,RJ,10
+230767,Rodrigo da Zaeli,MT,10
+178943,Marcos Soares,RJ,10
+220664,Guilherme Uchoa,PE,10
+178975,Baleia Rossi,SP,10
+74478,Luciano Bivar,PE,9
+66385,Julio Arcoverde,PI,9
+178854,Elmar Nascimento,BA,9
+92699,Fernando Monteiro,PE,9
+204549,AJ Albuquerque,CE,9
+204498,Olival Marques,PA,9
+220544,Antonio Andrade,TO,9
+204449,Nelson Barbudo,MT,8
+171623,Fabio Reis,SE,8
+204362,Ricardo Guidi,SC,8
+204496,Celso Sabino,PA,8
+179001,Márcio Biolchi,RS,8
+220677,Keniston Braga,PA,7
+220675,Antônio Doido,PA,7
+141533,Rodrigo Rollemberg,DF,6
+74646,Aécio Neves,MG,6
+204431,Marcos Aurélio Sampaio,PI,6
+233594,Rafael Fera,RO,6
+204489,Robério Monteiro,CE,6
+230768,Zé Adriano,AC,5
+178882,André Fufuca,MA,5
+73788,Ricardo Barros,PR,4
+74400,Paulo Pimenta,RS,4
+204353,Aline Gurgel,AP,3
+178905,Fabio Garcia,MT,3
+178831,André Abdon,AP,3
+143084,Tiago Dimas,TO,3
+160541,Arthur Lira,AL,3
+233592,Paulo Lemos,AP,2
+230957,João Cury,SP,2
+160552,Danrlei de Deus Hinterholz,RS,2
+178886,Juscelino Filho,MA,2
+220681,Fábio Macedo,MA,2
+141518,Paulinho da Força,SP,2
+160561,Missionário José Olimpio,SP,2
+234673,Vanderlan Alves,CE,1
+154178,Milton Vieira,SP,1
+234788,Heloísa Helena,RJ,1
+227991,Dr Flávio,RJ,1
+220614,Dr. Daniel Soranz,RJ,1
+178832,Leandre,PR,1
+160641,Professora Marcivania,AP,1

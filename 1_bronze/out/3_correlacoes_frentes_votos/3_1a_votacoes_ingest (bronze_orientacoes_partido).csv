@@ -1,0 +1,14 @@
+codPartidoBloco,codTipoLideranca,orientacaoVoto,siglaPartidoBloco,uriPartidoBloco
+null,B,Sim,Governo,null
+36832,P,Sim,PSB,https://dadosabertos.camara.leg.br/api/v2/partidos/36832
+37906,P,Liberado,PL,https://dadosabertos.camara.leg.br/api/v2/partidos/37906
+null,B,Sim,Fdr PSOL-REDE,null
+null,B,Sim,Maioria,null
+null,B,,Bl AvanSolidPrd...,null
+null,B,Sim,Fdr PT-PCdoB-PV,null
+38011,P,Não,MISSÃO,https://dadosabertos.camara.leg.br/api/v2/partidos/38011
+null,B,Não,Minoria,null
+36786,P,,PDT,https://dadosabertos.camara.leg.br/api/v2/partidos/36786
+null,B,Sim,Bl UniPpPsd...,null
+37901,P,Não,NOVO,https://dadosabertos.camara.leg.br/api/v2/partidos/37901
+null,B,Não,Oposição,null

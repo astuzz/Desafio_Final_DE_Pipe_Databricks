@@ -1,0 +1,5 @@
+id_cpi,sigla,descricao,data_inicio,data_fim,status_cpi,duracao_atual_dias,status_prazo
+537357,RIC 1/2023,CPI - MST,2023-05-17,2023-09-27,Encerrada com Relatório,133,Excedeu Prazo Regimental
+537330,RIC 2/2023,CPI - Americanas,2023-05-17,null,Em Andamento,null,Em Aberto
+537311,RIC 3/2023,CPI - Manipulação de Resultados,2023-05-17,2023-09-26,Encerrada,132,Excedeu Prazo Regimental
+537449,RIC 4/2023,CPI - Pirâmides Financeiras,2023-06-01,2023-10-09,Encerrada,130,Excedeu Prazo Regimental
